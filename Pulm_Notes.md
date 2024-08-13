@@ -2,1216 +2,2104 @@
 output:
   html_document: default
   pdf_document: default
+editor_options: 
+  markdown: 
+    wrap: 100
 ---
+
 # Lecture 1: Embryology and Anatomy of the Chest
 
-##  Overview
+## Overview
 
-This lecture covers the embryological development of the lungs from the initial lung bud to the formation of millions of alveoli, highlighting key stages and their clinical significance. It then reviews the essential anatomy of the chest, including the upper airway, thorax, and the dual blood supply to the lungs. Important nerves like the vagus and phrenic are emphasized, along with their functions in breathing and potential clinical implications. The lecture concludes by introducing the concept of anatomical dead space and providing a glimpse into the clinical application of this anatomy in radiology and bronchoscopy.
+This lecture covers the embryological development of the lungs from the initial lung bud to the
+formation of millions of alveoli, highlighting key stages and their clinical significance. It then
+reviews the essential anatomy of the chest, including the upper airway, thorax, and the dual blood
+supply to the lungs. Important nerves like the vagus and phrenic are emphasized, along with their
+functions in breathing and potential clinical implications. The lecture concludes by introducing the
+concept of anatomical dead space and providing a glimpse into the clinical application of this
+anatomy in radiology and bronchoscopy.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Table of Contents
 
-* [Embryology of the Lungs](#embryology-of-the-lungs)
-    * [Initiation of Lung Budding](#initiation-of-lung-budding)
-    * [Embryonic Stage](#embryonic-stage)
-    * [Pseudoglandular Stage](#pseudoglandular-stage)
-    * [Canalicular Stage](#canalicular-stage)
-    * [Saccular Stage](#saccular-stage)
-    * [Alveolar Stage](#alveolar-stage)
-    * [Postnatal Period](#postnatal-period)
-* [Anatomy of the Chest](#anatomy-of-the-chest)
-    * [Upper Airway](#upper-airway)
-    * [Thorax](#thorax)
-        * [Bones of the Thorax](#bones-of-the-thorax)
-        * [Mechanics of Breathing](#mechanics-of-breathing)
-    * [Important Nerves](#important-nerves)
-        * [Vagus Nerve (CN X)](#vagus-nerve-cn-x)
-        * [Phrenic Nerve](#phrenic-nerve)
-        * [Recurrent Laryngeal Nerve](#recurrent-laryngeal-nerve)
-    * [Diaphragm](#diaphragm)
-        * [Diaphragm Anatomy](#diaphragm-anatomy)
-        * [Diaphragm Actions](#diaphragm-actions)
-    * [Intercostal Muscles and Scalenes](#intercostal-muscles-and-scalenes)
-    * [Dual Blood Supply](#dual-blood-supply)
-        * [Pulmonary Circulation](#pulmonary-circulation)
-        * [Bronchial Circulation](#bronchial-circulation)
-    * [Mediastinal Compartments](#mediastinal-compartments)
-    * [Surface Anatomy](#surface-anatomy)
-* [Lower Airways](#lower-airways)
-    * [Trachea](#trachea)
-    * [Bronchi](#bronchi)
-    * [Conducting Airways vs. Gas Exchange Airways](#conducting-airways-vs-gas-exchange-airways)
-    * [Anatomic Dead Space](#anatomic-dead-space)
-* [Lobes and Segments of the Lungs](#lobes-and-segments-of-the-lungs)
-* [Radiology and Bronchoscopy](#radiology-and-bronchoscopy)
-* [Key Points](#key-points)
-* [Glossary](#glossary)
+-   [Embryology of the Lungs](#embryology-of-the-lungs)
+    -   [Initiation of Lung Budding](#initiation-of-lung-budding)
+    -   [Embryonic Stage](#embryonic-stage)
+    -   [Pseudoglandular Stage](#pseudoglandular-stage)
+    -   [Canalicular Stage](#canalicular-stage)
+    -   [Saccular Stage](#saccular-stage)
+    -   [Alveolar Stage](#alveolar-stage)
+    -   [Postnatal Period](#postnatal-period)
+-   [Anatomy of the Chest](#anatomy-of-the-chest)
+    -   [Upper Airway](#upper-airway)
+    -   [Thorax](#thorax)
+        -   [Bones of the Thorax](#bones-of-the-thorax)
+        -   [Mechanics of Breathing](#mechanics-of-breathing)
+    -   [Important Nerves](#important-nerves)
+        -   [Vagus Nerve (CN X)](#vagus-nerve-cn-x)
+        -   [Phrenic Nerve](#phrenic-nerve)
+        -   [Recurrent Laryngeal Nerve](#recurrent-laryngeal-nerve)
+    -   [Diaphragm](#diaphragm)
+        -   [Diaphragm Anatomy](#diaphragm-anatomy)
+        -   [Diaphragm Actions](#diaphragm-actions)
+    -   [Intercostal Muscles and Scalenes](#intercostal-muscles-and-scalenes)
+    -   [Dual Blood Supply](#dual-blood-supply)
+        -   [Pulmonary Circulation](#pulmonary-circulation)
+        -   [Bronchial Circulation](#bronchial-circulation)
+    -   [Mediastinal Compartments](#mediastinal-compartments)
+    -   [Surface Anatomy](#surface-anatomy)
+-   [Lower Airways](#lower-airways)
+    -   [Trachea](#trachea)
+    -   [Bronchi](#bronchi)
+    -   [Conducting Airways vs. Gas Exchange Airways](#conducting-airways-vs-gas-exchange-airways)
+    -   [Anatomic Dead Space](#anatomic-dead-space)
+-   [Lobes and Segments of the Lungs](#lobes-and-segments-of-the-lungs)
+-   [Radiology and Bronchoscopy](#radiology-and-bronchoscopy)
+-   [Key Points](#key-points)
+-   [Glossary](#glossary)
 
----
+----------------------------------------------------------------------------------------------------
 
-## Embryology of the Lungs
+## Embryology of the Lungs {#embryology-of-the-lungs}
 
-The lungs develop through a series of well-defined stages, each marked by specific cellular and structural changes:
+The lungs develop through a series of well-defined stages, each marked by specific cellular and
+structural changes:
 
-### Initiation of Lung Budding
+### Initiation of Lung Budding {#initiation-of-lung-budding}
 
-* The lung bud originates from the **foregut**, the embryonic precursor to the digestive system.
-* The bud invades the surrounding **splanchnic mesoderm**, a layer of embryonic tissue that will contribute to the connective tissue and smooth muscle of the lungs.
-* The initial lung bud bifurcates into two primary bronchial buds, setting the stage for the branching pattern of the airways.
+-   The lung bud originates from the **foregut**, the embryonic precursor to the digestive system.
+-   The bud invades the surrounding **splanchnic mesoderm**, a layer of embryonic tissue that will
+    contribute to the connective tissue and smooth muscle of the lungs.
+-   The initial lung bud bifurcates into two primary bronchial buds, setting the stage for the
+    branching pattern of the airways.
 
 ### Embryonic Stage (Weeks 3-7)
 
-* The lung bud continues to divide and branch, invading the splanchnic mesoderm.
-* By week 4-5, five **saccules** (precursors to the lobes) are present: three on the right and two on the left.
-* By week 7, further branching leads to the formation of **segmental and subsegmental branches**, establishing the basic structure of the bronchial tree.
+-   The lung bud continues to divide and branch, invading the splanchnic mesoderm.
+-   By week 4-5, five **saccules** (precursors to the lobes) are present: three on the right and two
+    on the left.
+-   By week 7, further branching leads to the formation of **segmental and subsegmental branches**,
+    establishing the basic structure of the bronchial tree.
 
 ### Pseudoglandular Stage (Weeks 5-17)
 
-* Branching continues, and by the end of this stage, there are 22-24 generations of airways.
-* Airways are lined mostly with **columnar epithelium**, the type of cells that typically line the respiratory tract.
-* Other specialized cell types begin to appear, including **ciliated cells, goblet cells (producing mucus), and neuroendocrine cells.**
+-   Branching continues, and by the end of this stage, there are 22-24 generations of airways.
+-   Airways are lined mostly with **columnar epithelium**, the type of cells that typically line the
+    respiratory tract.
+-   Other specialized cell types begin to appear, including **ciliated cells, goblet cells
+    (producing mucus), and neuroendocrine cells.**
 
 ### Canalicular Stage (Weeks 16-26)
 
-* The **pulmonary acinus** develops along with its associated capillaries.
-* **Type I and Type II pneumocytes** differentiate:
-    * **Type I pneumocytes** form the thin alveolar walls for gas exchange.
-    * **Type II pneumocytes** produce **surfactant**, a critical substance that reduces surface tension in the alveoli.
-* By the end of this stage, the lungs achieve marginal capacity for gas exchange, marking a **threshold for fetal viability**.
+-   The **pulmonary acinus** develops along with its associated capillaries.
+-   **Type I and Type II pneumocytes** differentiate:
+    -   **Type I pneumocytes** form the thin alveolar walls for gas exchange.
+    -   **Type II pneumocytes** produce **surfactant**, a critical substance that reduces surface
+        tension in the alveoli.
+-   By the end of this stage, the lungs achieve marginal capacity for gas exchange, marking a
+    **threshold for fetal viability**.
 
 ### Saccular Stage (Weeks 24-38)
 
-* **Airspace saccules** proliferate, increasing the surface area of the epithelium and the epithelial-capillary interface for gas exchange.
-* **Type I cells** continue to thin, further enhancing gas exchange.
-* **Type II cells** actively produce **surfactant**, preparing the lungs for air breathing after birth.
+-   **Airspace saccules** proliferate, increasing the surface area of the epithelium and the
+    epithelial-capillary interface for gas exchange.
+-   **Type I cells** continue to thin, further enhancing gas exchange.
+-   **Type II cells** actively produce **surfactant**, preparing the lungs for air breathing after
+    birth.
 
 ### Alveolar Stage (Weeks 36 - 18 Months)
 
-* **Terminal saccules** mature into true **alveoli**, the tiny air sacs responsible for gas exchange.
-* **Septation**, the formation of thin walls between alveoli, increases the number of alveoli tenfold.
-* By the end of this stage, the epithelial surface is predominantly composed of **Type I pneumocytes**.
-* The lungs contain approximately **300 million alveoli**, organized into about **130,000 primary lobules (acini)**.
+-   **Terminal saccules** mature into true **alveoli**, the tiny air sacs responsible for gas
+    exchange.
+-   **Septation**, the formation of thin walls between alveoli, increases the number of alveoli
+    tenfold.
+-   By the end of this stage, the epithelial surface is predominantly composed of **Type I
+    pneumocytes**.
+-   The lungs contain approximately **300 million alveoli**, organized into about **130,000 primary
+    lobules (acini)**.
 
-### Postnatal Period
+### Postnatal Period {#postnatal-period}
 
-* Alveolar multiplication and enlargement continue until about 8 years of age.
-* Total alveolar surface area increases dramatically:
-    * At birth: 3-4 square meters.
-    * Adulthood: 72 square meters (roughly the size of a tennis court).
+-   Alveolar multiplication and enlargement continue until about 8 years of age.
+-   Total alveolar surface area increases dramatically:
+    -   At birth: 3-4 square meters.
+    -   Adulthood: 72 square meters (roughly the size of a tennis court).
 
----
+----------------------------------------------------------------------------------------------------
 
-## Anatomy of the Chest
+## Anatomy of the Chest {#anatomy-of-the-chest}
 
-Understanding the structural organization of the chest is fundamental to comprehending its function and potential clinical issues.
+Understanding the structural organization of the chest is fundamental to comprehending its function
+and potential clinical issues.
 
-### Upper Airway
+### Upper Airway {#upper-airway}
 
-* **Nasopharynx:** The uppermost part of the pharynx, located behind the nasal cavity.
-* **Oropharynx:** The middle part of the pharynx, located behind the oral cavity.
-* **Larynx:** Situated below the oropharynx, it houses the vocal cords and plays a crucial role in voice production and airflow regulation.
-    * **Epiglottis:** A flap-like structure that covers the larynx during swallowing, preventing food and liquids from entering the airway.
-    * **Vocal Cords:** Bands of tissue within the larynx that vibrate to produce sound.
+-   **Nasopharynx:** The uppermost part of the pharynx, located behind the nasal cavity.
+-   **Oropharynx:** The middle part of the pharynx, located behind the oral cavity.
+-   **Larynx:** Situated below the oropharynx, it houses the vocal cords and plays a crucial role in
+    voice production and airflow regulation.
+    -   **Epiglottis:** A flap-like structure that covers the larynx during swallowing, preventing
+        food and liquids from entering the airway.
+    -   **Vocal Cords:** Bands of tissue within the larynx that vibrate to produce sound.
 
-### Thorax
+### Thorax {#thorax}
 
 The thorax is the bony cage that protects the lungs and heart, playing a vital role in respiration.
 
-#### Bones of the Thorax
+#### Bones of the Thorax {#bones-of-the-thorax}
 
-* **12 Thoracic Vertebrae:** Form the posterior midline support of the thorax.
-* **12 Pairs of Ribs:** Attach to the thoracic vertebrae and curve around to the front.
-    * **True Ribs (1-7):** Directly attach to the sternum via individual costal cartilages.
-    * **False Ribs (8-10):** Connect to the sternum indirectly through shared costal cartilage.
-    * **Floating Ribs (11-12):** Do not attach to the sternum, ending freely in the abdominal muscles.
+-   **12 Thoracic Vertebrae:** Form the posterior midline support of the thorax.
+-   **12 Pairs of Ribs:** Attach to the thoracic vertebrae and curve around to the front.
+    -   **True Ribs (1-7):** Directly attach to the sternum via individual costal cartilages.
+    -   **False Ribs (8-10):** Connect to the sternum indirectly through shared costal cartilage.
+    -   **Floating Ribs (11-12):** Do not attach to the sternum, ending freely in the abdominal
+        muscles.
 
-#### Mechanics of Breathing
+#### Mechanics of Breathing {#mechanics-of-breathing}
 
-* **Pump-Handle Action:** During inspiration, the first rib, anchored to the manubrium (the upper part of the sternum), elevates and rotates the sternum outward, increasing the anteroposterior (AP) diameter of the chest.
-* **Bucket-Handle Action:** The remaining ribs, with a different axis of rotation, elevate during inspiration, expanding the lateral dimension of the chest.
+-   **Pump-Handle Action:** During inspiration, the first rib, anchored to the manubrium (the upper
+    part of the sternum), elevates and rotates the sternum outward, increasing the anteroposterior
+    (AP) diameter of the chest.
+-   **Bucket-Handle Action:** The remaining ribs, with a different axis of rotation, elevate during
+    inspiration, expanding the lateral dimension of the chest.
 
-### Important Nerves
+### Important Nerves {#important-nerves}
 
 Several crucial nerves innervate the respiratory muscles and structures:
 
-#### Vagus Nerve (CN X)
+#### Vagus Nerve (CN X) {#vagus-nerve-cn-x}
 
-* **Recurrent Laryngeal Branch:** Innervates the intrinsic muscles of the larynx, controlling vocal cord movement and voice production.
-* **Other Branches:** Innervate smooth muscle of the respiratory tract, influencing airway tone and contributing to bronchoconstriction or bronchodilation.
+-   **Recurrent Laryngeal Branch:** Innervates the intrinsic muscles of the larynx, controlling
+    vocal cord movement and voice production.
+-   **Other Branches:** Innervate smooth muscle of the respiratory tract, influencing airway tone
+    and contributing to bronchoconstriction or bronchodilation.
 
-#### Phrenic Nerve
+#### Phrenic Nerve {#phrenic-nerve}
 
-* **Origin:** Arises from cervical spinal nerves C3, C4, and C5 ("C3, 4, 5 keeps the diaphragm alive").
-* **Function:** The sole motor nerve supply to the diaphragm, the primary muscle of respiration.
-* **Sensory Input:** Carries sensory information from the parietal pleura (lining of the chest cavity) and pericardium (sac surrounding the heart).
+-   **Origin:** Arises from cervical spinal nerves C3, C4, and C5 ("C3, 4, 5 keeps the diaphragm
+    alive").
+-   **Function:** The sole motor nerve supply to the diaphragm, the primary muscle of respiration.
+-   **Sensory Input:** Carries sensory information from the parietal pleura (lining of the chest
+    cavity) and pericardium (sac surrounding the heart).
 
-#### Recurrent Laryngeal Nerve
+#### Recurrent Laryngeal Nerve {#recurrent-laryngeal-nerve}
 
-* **Path:** Loops under the aortic arch on the left side, making it susceptible to compression from mediastinal masses (e.g., lung cancer, enlarged lymph nodes).
-* **Clinical Significance:**  Paralysis of the left vocal cord can be a sign of a serious underlying condition in the chest.
+-   **Path:** Loops under the aortic arch on the left side, making it susceptible to compression
+    from mediastinal masses (e.g., lung cancer, enlarged lymph nodes).
+-   **Clinical Significance:** Paralysis of the left vocal cord can be a sign of a serious
+    underlying condition in the chest.
 
-### Diaphragm
+### Diaphragm {#diaphragm}
 
-#### Diaphragm Anatomy
+#### Diaphragm Anatomy {#diaphragm-anatomy}
 
-* **Structure:**  A dome-shaped musculotendinous structure separating the thoracic and abdominal cavities.
-* **Components:**
-    * **Costal Portions:** Attach to the lower ribs.
-    * **Crural Portions:** Attach to the lumbar vertebrae.
-    * **Central Tendon:** A strong, fibrous sheet in the center of the diaphragm.
+-   **Structure:** A dome-shaped musculotendinous structure separating the thoracic and abdominal
+    cavities.
+-   **Components:**
+    -   **Costal Portions:** Attach to the lower ribs.
+    -   **Crural Portions:** Attach to the lumbar vertebrae.
+    -   **Central Tendon:** A strong, fibrous sheet in the center of the diaphragm.
 
-#### Diaphragm Actions
+#### Diaphragm Actions {#diaphragm-actions}
 
-* **Piston-like Action:** The diaphragm descends during inspiration, increasing the volume of the thoracic cavity and drawing air into the lungs.
-* **Appositional Action:**  As the diaphragm contracts, it pushes against the lower ribs, assisting in their outward rotation (bucket-handle motion) to further increase chest volume.
+-   **Piston-like Action:** The diaphragm descends during inspiration, increasing the volume of the
+    thoracic cavity and drawing air into the lungs.
+-   **Appositional Action:** As the diaphragm contracts, it pushes against the lower ribs, assisting
+    in their outward rotation (bucket-handle motion) to further increase chest volume.
 
-### Intercostal Muscles and Scalenes
+### Intercostal Muscles and Scalenes {#intercostal-muscles-and-scalenes}
 
-* **Intercostal Muscles:**  Muscles located between the ribs that assist in breathing.
-    * **External Intercostals:**  Primarily involved in inspiration, elevating the ribs.
-    * **Internal Intercostals:**  Primarily involved in expiration, depressing the ribs. (Remember: "External Inspiration, Internal Expiration" is WRONG.)
-* **Scalenes:** Muscles in the neck that attach to the first rib, stabilizing it and allowing the other ribs to be effectively elevated during inspiration.
+-   **Intercostal Muscles:** Muscles located between the ribs that assist in breathing.
+    -   **External Intercostals:** Primarily involved in inspiration, elevating the ribs.
+    -   **Internal Intercostals:** Primarily involved in expiration, depressing the ribs. (Remember:
+        "External Inspiration, Internal Expiration" is WRONG.)
+-   **Scalenes:** Muscles in the neck that attach to the first rib, stabilizing it and allowing the
+    other ribs to be effectively elevated during inspiration.
 
-### Dual Blood Supply
+### Dual Blood Supply {#dual-blood-supply}
 
 The lungs receive blood from two distinct circulatory systems:
 
-#### Pulmonary Circulation
+#### Pulmonary Circulation {#pulmonary-circulation}
 
-* **Source:** Right heart.
-* **Pressure:** Low pressure (15-30/5-12 mmHg).
-* **Function:** Carries deoxygenated blood to the alveoli for gas exchange.
-* **Path:** Follows the bronchi, branching into lobar, segmental, and lobular arteries, and finally reaching the alveolar capillaries.
+-   **Source:** Right heart.
+-   **Pressure:** Low pressure (15-30/5-12 mmHg).
+-   **Function:** Carries deoxygenated blood to the alveoli for gas exchange.
+-   **Path:** Follows the bronchi, branching into lobar, segmental, and lobular arteries, and
+    finally reaching the alveolar capillaries.
 
-#### Bronchial Circulation
+#### Bronchial Circulation {#bronchial-circulation}
 
-* **Source:**  Left heart.
-* **Pressure:** High pressure (systemic pressures, 120/80 mmHg).
-* **Function:** Supplies oxygenated blood to the lung tissue itself, particularly the airways.
-* **Origin:**
-    * **Right Bronchial Artery:** Arises from the first intercostal artery.
-    * **Left Bronchial Arteries:** Arise from the thoracic aorta.
-* **Clinical Significance:** Disruption can lead to significant bleeding into the airways (hemoptysis).
+-   **Source:** Left heart.
+-   **Pressure:** High pressure (systemic pressures, 120/80 mmHg).
+-   **Function:** Supplies oxygenated blood to the lung tissue itself, particularly the airways.
+-   **Origin:**
+    -   **Right Bronchial Artery:** Arises from the first intercostal artery.
+    -   **Left Bronchial Arteries:** Arise from the thoracic aorta.
+-   **Clinical Significance:** Disruption can lead to significant bleeding into the airways
+    (hemoptysis).
 
-### Mediastinal Compartments
+### Mediastinal Compartments {#mediastinal-compartments}
 
 The mediastinum, the central space within the chest, is divided into three compartments:
 
-* **Anterior Mediastinum:** Located between the sternum and the pericardium, containing the thymus gland, trachea, lymph nodes, and fat.
-* **Middle Mediastinum:**  Defined by its contents, including the heart, ascending aorta, superior vena cava, brachiocephalic vessels, phrenic nerves, trachea, main bronchi, and pulmonary arteries.
-* **Posterior Mediastinum:** Located between the pericardium and the thoracic vertebrae, containing the descending thoracic aorta, esophagus, azygos veins, and autonomic nerves.
+-   **Anterior Mediastinum:** Located between the sternum and the pericardium, containing the thymus
+    gland, trachea, lymph nodes, and fat.
+-   **Middle Mediastinum:** Defined by its contents, including the heart, ascending aorta, superior
+    vena cava, brachiocephalic vessels, phrenic nerves, trachea, main bronchi, and pulmonary
+    arteries.
+-   **Posterior Mediastinum:** Located between the pericardium and the thoracic vertebrae,
+    containing the descending thoracic aorta, esophagus, azygos veins, and autonomic nerves.
 
-### Surface Anatomy
+### Surface Anatomy {#surface-anatomy}
 
 Knowing these landmarks helps orient you on a chest X-ray:
 
-* **T2 Suprasternal Notch:** The top of the manubrium is at the posterior level of the second thoracic vertebra (T2).
-* **T4 Sternal Angle:**  The sternal angle, where the second rib articulates, is at the level of the fourth thoracic vertebra (T4) and the carina (where the trachea bifurcates).
-* **T9 Xyphoid, Inferior Scapula:** The xyphoid process, the inferior tip of the scapula, and the ninth thoracic vertebra (T9) all lie at roughly the same level.
+-   **T2 Suprasternal Notch:** The top of the manubrium is at the posterior level of the second
+    thoracic vertebra (T2).
+-   **T4 Sternal Angle:** The sternal angle, where the second rib articulates, is at the level of
+    the fourth thoracic vertebra (T4) and the carina (where the trachea bifurcates).
+-   **T9 Xyphoid, Inferior Scapula:** The xyphoid process, the inferior tip of the scapula, and the
+    ninth thoracic vertebra (T9) all lie at roughly the same level.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Lower Airways
+## Lower Airways {#lower-airways}
 
 The lower airways are the passageways for air to reach the gas exchange units of the lungs.
 
-### Trachea
+### Trachea {#trachea}
 
-* **Length:** 9-15 cm.
-* **Diameter:** Approximately 2 cm.
-* **Structure:** Supported by 18-22 C-shaped cartilaginous rings, ensuring patency.
-* **Location:**
-    * Becomes intrathoracic at the level of the sixth cartilaginous ring (sternal notch).
-    * Bifurcates into the right and left main bronchi at the level of the sternal angle (T4).
+-   **Length:** 9-15 cm.
+-   **Diameter:** Approximately 2 cm.
+-   **Structure:** Supported by 18-22 C-shaped cartilaginous rings, ensuring patency.
+-   **Location:**
+    -   Becomes intrathoracic at the level of the sixth cartilaginous ring (sternal notch).
+    -   Bifurcates into the right and left main bronchi at the level of the sternal angle (T4).
 
-### Bronchi
+### Bronchi {#bronchi}
 
-* **Right Main Bronchus:**
-    * Wider and more vertical than the left main bronchus.
-    * Gives rise to:
-        * Right Upper Lobe Bronchus
-        * Bronchus Intermedius (divides into Middle and Lower Lobe Bronchi)
-* **Left Main Bronchus:**
-    * Longer and narrower than the right.
-    * Divides into:
-        * Left Upper Lobe Bronchus
-        * Left Lower Lobe Bronchus
+-   **Right Main Bronchus:**
+    -   Wider and more vertical than the left main bronchus.
+    -   Gives rise to:
+        -   Right Upper Lobe Bronchus
+        -   Bronchus Intermedius (divides into Middle and Lower Lobe Bronchi)
+-   **Left Main Bronchus:**
+    -   Longer and narrower than the right.
+    -   Divides into:
+        -   Left Upper Lobe Bronchus
+        -   Left Lower Lobe Bronchus
 
 ### Conducting Airways vs. Gas Exchange Airways
 
-* **Conducting Airways (Generations 1-16):** Function as conduits for air movement, without gas exchange. Include the trachea, bronchi, and bronchioles down to the terminal bronchioles.
-* **Gas Exchange Airways (Generations 17 and higher):** Where gas exchange with the blood occurs. Begin at the respiratory bronchioles and extend to the alveolar ducts and sacs.
+-   **Conducting Airways (Generations 1-16):** Function as conduits for air movement, without gas
+    exchange. Include the trachea, bronchi, and bronchioles down to the terminal bronchioles.
+-   **Gas Exchange Airways (Generations 17 and higher):** Where gas exchange with the blood occurs.
+    Begin at the respiratory bronchioles and extend to the alveolar ducts and sacs.
 
-### Anatomic Dead Space
+### Anatomic Dead Space {#anatomic-dead-space}
 
-* **Definition:**  The volume of air in the conducting airways that does not participate in gas exchange. Includes the nose, pharynx, trachea, bronchi, and bronchioles down to the terminal bronchioles.
-* **Significance:** Represents "wasted ventilation" as each breath pushes in a volume of air with high CO2 and low O2 from the previous exhalation, reducing breathing efficiency.
+-   **Definition:** The volume of air in the conducting airways that does not participate in gas
+    exchange. Includes the nose, pharynx, trachea, bronchi, and bronchioles down to the terminal
+    bronchioles.
+-   **Significance:** Represents "wasted ventilation" as each breath pushes in a volume of air with
+    high CO2 and low O2 from the previous exhalation, reducing breathing efficiency.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Lobes and Segments of the Lungs
+## Lobes and Segments of the Lungs {#lobes-and-segments-of-the-lungs}
 
-* **Right Lung:** 3 lobes (Upper, Middle, Lower) divided by the oblique and horizontal fissures. Contains 10 bronchopulmonary segments.
-* **Left Lung:** 2 lobes (Upper, Lower) divided by the oblique fissure. Contains 8 bronchopulmonary segments.
+-   **Right Lung:** 3 lobes (Upper, Middle, Lower) divided by the oblique and horizontal fissures.
+    Contains 10 bronchopulmonary segments.
+-   **Left Lung:** 2 lobes (Upper, Lower) divided by the oblique fissure. Contains 8
+    bronchopulmonary segments.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Radiology and Bronchoscopy
+## Radiology and Bronchoscopy {#radiology-and-bronchoscopy}
 
-* **Radiology:** Chest X-rays are essential for visualizing lung anatomy and detecting abnormalities. Learning to interpret chest X-rays takes time and practice.
-* **Bronchoscopy:**  A procedure using a bronchoscope, a thin, flexible instrument with a camera and working channel, to visualize and access the airways.  Allows for:
-    * Relieving airway obstructions
-    * Removing foreign bodies
-    * Lavage (washing) the airways
-    * Obtaining samples for diagnosis (cells, microbes)
-    * Performing biopsies
+-   **Radiology:** Chest X-rays are essential for visualizing lung anatomy and detecting
+    abnormalities. Learning to interpret chest X-rays takes time and practice.
+-   **Bronchoscopy:** A procedure using a bronchoscope, a thin, flexible instrument with a camera
+    and working channel, to visualize and access the airways. Allows for:
+    -   Relieving airway obstructions
+    -   Removing foreign bodies
+    -   Lavage (washing) the airways
+    -   Obtaining samples for diagnosis (cells, microbes)
+    -   Performing biopsies
 
----
+----------------------------------------------------------------------------------------------------
 
-## Key Points
+## Key Points {#key-points}
 
-* **Embryology:**  The lungs develop from the foregut through a series of stages, culminating in millions of alveoli for efficient gas exchange.  Surfactant production is crucial for postnatal lung function.
-* **Anatomy:** The chest is a complex structure with specific bony landmarks, important nerves (vagus, phrenic, recurrent laryngeal), and a dual blood supply (pulmonary and bronchial).
-* **Clinical Significance:** This anatomy is fundamental to understanding respiratory function, interpreting chest X-rays, and performing procedures like bronchoscopy.
+-   **Embryology:** The lungs develop from the foregut through a series of stages, culminating in
+    millions of alveoli for efficient gas exchange. Surfactant production is crucial for postnatal
+    lung function.
+-   **Anatomy:** The chest is a complex structure with specific bony landmarks, important nerves
+    (vagus, phrenic, recurrent laryngeal), and a dual blood supply (pulmonary and bronchial).
+-   **Clinical Significance:** This anatomy is fundamental to understanding respiratory function,
+    interpreting chest X-rays, and performing procedures like bronchoscopy.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Glossary
+## Glossary {#glossary}
 
-* **Acinus:**  The smallest functional unit of the lung, consisting of respiratory bronchioles, alveolar ducts, and alveolar sacs.
-* **Alveoli:** Tiny air sacs in the lungs where gas exchange occurs.
-* **Bronchi:** The major air passages that branch from the trachea and lead to the lungs.
-* **Bronchioles:** Smaller air passages that branch from the bronchi.
-* **Carina:**  The point where the trachea divides into the right and left main bronchi.
-* **Diaphragm:** The primary muscle of respiration, separating the thoracic and abdominal cavities.
-* **Fissures:**  Grooves in the lungs that separate the lobes.
-* **Foregut:** The embryonic precursor to the digestive system.
-* **Hemoptysis:** Coughing up blood.
-* **Intercostal Muscles:**  Muscles between the ribs that assist in breathing.
-* **Larynx:** The voice box, containing the vocal cords.
-* **Lobes:**  Major divisions of the lungs.
-* **Manubrium:**  The upper part of the sternum.
-* **Mediastinum:**  The central compartment of the chest, containing the heart, great vessels, trachea, esophagus, and other structures.
-* **Nasopharynx:** The upper part of the pharynx, behind the nasal cavity.
-* **Oropharynx:** The middle part of the pharynx, behind the oral cavity.
-* **Pharynx:** The throat, a passage for air and food.
-* **Phrenic Nerve:** The nerve that supplies motor innervation to the diaphragm.
-* **Pneumocytes:**  Cells that line the alveoli.
-    * **Type I Pneumocytes:** Thin cells responsible for gas exchange.
-    * **Type II Pneumocytes:** Produce surfactant.
-* **Pulmonary Circulation:** The circulatory system that carries deoxygenated blood from the heart to the lungs and oxygenated blood back to the heart.
-* **Recurrent Laryngeal Nerve:** A branch of the vagus nerve that innervates the larynx.
-* **Saccules:** Precursors to the lobes of the lungs in embryonic development.
-* **Scalenes:**  Muscles in the neck that attach to the first rib and assist in breathing.
-* **Segments:** Subdivisions of the lobes of the lungs.
-* **Splanchnic Mesoderm:** Embryonic tissue that contributes to the connective tissue and smooth muscle of the lungs.
-* **Sternum:** The breastbone.
-* **Surfactant:**  A substance produced by Type II pneumocytes that reduces surface tension in the alveoli, preventing them from collapsing.
-* **Thoracic Vertebrae:**  The bones that form the backbone in the chest region.
-* **Trachea:** The windpipe, the main airway that leads to the lungs.
-* **Vagus Nerve (CN X):** A major cranial nerve with branches that innervate the larynx, heart, lungs, and digestive system.
+-   **Acinus:** The smallest functional unit of the lung, consisting of respiratory bronchioles,
+    alveolar ducts, and alveolar sacs.
+-   **Alveoli:** Tiny air sacs in the lungs where gas exchange occurs.
+-   **Bronchi:** The major air passages that branch from the trachea and lead to the lungs.
+-   **Bronchioles:** Smaller air passages that branch from the bronchi.
+-   **Carina:** The point where the trachea divides into the right and left main bronchi.
+-   **Diaphragm:** The primary muscle of respiration, separating the thoracic and abdominal
+    cavities.
+-   **Fissures:** Grooves in the lungs that separate the lobes.
+-   **Foregut:** The embryonic precursor to the digestive system.
+-   **Hemoptysis:** Coughing up blood.
+-   **Intercostal Muscles:** Muscles between the ribs that assist in breathing.
+-   **Larynx:** The voice box, containing the vocal cords.
+-   **Lobes:** Major divisions of the lungs.
+-   **Manubrium:** The upper part of the sternum.
+-   **Mediastinum:** The central compartment of the chest, containing the heart, great vessels,
+    trachea, esophagus, and other structures.
+-   **Nasopharynx:** The upper part of the pharynx, behind the nasal cavity.
+-   **Oropharynx:** The middle part of the pharynx, behind the oral cavity.
+-   **Pharynx:** The throat, a passage for air and food.
+-   **Phrenic Nerve:** The nerve that supplies motor innervation to the diaphragm.
+-   **Pneumocytes:** Cells that line the alveoli.
+    -   **Type I Pneumocytes:** Thin cells responsible for gas exchange.
+    -   **Type II Pneumocytes:** Produce surfactant.
+-   **Pulmonary Circulation:** The circulatory system that carries deoxygenated blood from the heart
+    to the lungs and oxygenated blood back to the heart.
+-   **Recurrent Laryngeal Nerve:** A branch of the vagus nerve that innervates the larynx.
+-   **Saccules:** Precursors to the lobes of the lungs in embryonic development.
+-   **Scalenes:** Muscles in the neck that attach to the first rib and assist in breathing.
+-   **Segments:** Subdivisions of the lobes of the lungs.
+-   **Splanchnic Mesoderm:** Embryonic tissue that contributes to the connective tissue and smooth
+    muscle of the lungs.
+-   **Sternum:** The breastbone.
+-   **Surfactant:** A substance produced by Type II pneumocytes that reduces surface tension in the
+    alveoli, preventing them from collapsing.
+-   **Thoracic Vertebrae:** The bones that form the backbone in the chest region.
+-   **Trachea:** The windpipe, the main airway that leads to the lungs.
+-   **Vagus Nerve (CN X):** A major cranial nerve with branches that innervate the larynx, heart,
+    lungs, and digestive system.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Lecture 2: Lung Pathology
 
 ### Overview
 
-This lecture focuses on the microscopic anatomy of the normal lung and its common pathological alterations. It begins by reviewing the histological features of the respiratory tract, highlighting the unique characteristics of different airway levels and the crucial role of the mucociliary clearance system. It then delves into the intricate structure of the alveoli, emphasizing the importance of Type I and Type II pneumocytes, the extensive capillary network, and the delicate balance required for efficient gas exchange. The lecture introduces the concept of the pulmonary acinus as the functional unit of the lung and explores the dual blood supply provided by the pulmonary and bronchial circulations.  Finally, the lecture shifts to examining common pathological processes in the lung, illustrated through four case studies showcasing acute bronchopneumonia, centriacinar emphysema, usual interstitial pneumonia (UIP), and acute bronchitis. Each case emphasizes the location and nature of the abnormality and its impact on lung function.
+This lecture focuses on the microscopic anatomy of the normal lung and its common pathological
+alterations. It begins by reviewing the histological features of the respiratory tract, highlighting
+the unique characteristics of different airway levels and the crucial role of the mucociliary
+clearance system. It then delves into the intricate structure of the alveoli, emphasizing the
+importance of Type I and Type II pneumocytes, the extensive capillary network, and the delicate
+balance required for efficient gas exchange. The lecture introduces the concept of the pulmonary
+acinus as the functional unit of the lung and explores the dual blood supply provided by the
+pulmonary and bronchial circulations. Finally, the lecture shifts to examining common pathological
+processes in the lung, illustrated through four case studies showcasing acute bronchopneumonia,
+centriacinar emphysema, usual interstitial pneumonia (UIP), and acute bronchitis. Each case
+emphasizes the location and nature of the abnormality and its impact on lung function.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Table of Contents
 
-* [Review of Normal Lung Histology](#review-of-normal-lung-histology)
-    * [Airways](#airways)
-    * [Bronchioles](#bronchioles)
-    * [Alveoli](#alveoli)
-    * [Pulmonary Vasculature](#pulmonary-vasculature)
-    * [Pulmonary Interstitium](#pulmonary-interstitium)
-    * [Pleura](#pleura)
-    * [Alveolar Macrophages](#alveolar-macrophages)
-* [Case Studies in Lung Pathology](#case-studies-in-lung-pathology)
-    * [Case 1: Acute Bronchopneumonia](#case-1-acute-bronchopneumonia)
-    * [Case 2: Centriacinar Emphysema](#case-2-centriacinar-emphysema)
-    * [Case 3: Usual Interstitial Pneumonia (UIP)](#case-3-usual-interstitial-pneumonia-uip)
-    * [Case 4: Acute Bronchitis](#case-4-acute-bronchitis)
-* [Key Points](#key-points)
-* [Glossary](#glossary)
+-   [Review of Normal Lung Histology](#review-of-normal-lung-histology)
+    -   [Airways](#airways)
+    -   [Bronchioles](#bronchioles)
+    -   [Alveoli](#alveoli)
+    -   [Pulmonary Vasculature](#pulmonary-vasculature)
+    -   [Pulmonary Interstitium](#pulmonary-interstitium)
+    -   [Pleura](#pleura)
+    -   [Alveolar Macrophages](#alveolar-macrophages)
+-   [Case Studies in Lung Pathology](#case-studies-in-lung-pathology)
+    -   [Case 1: Acute Bronchopneumonia](#case-1-acute-bronchopneumonia)
+    -   [Case 2: Centriacinar Emphysema](#case-2-centriacinar-emphysema)
+    -   [Case 3: Usual Interstitial Pneumonia (UIP)](#case-3-usual-interstitial-pneumonia-uip)
+    -   [Case 4: Acute Bronchitis](#case-4-acute-bronchitis)
+-   [Key Points](#key-points)
+-   [Glossary](#glossary)
 
----
+----------------------------------------------------------------------------------------------------
 
-## Review of Normal Lung Histology
+## Review of Normal Lung Histology {#review-of-normal-lung-histology}
 
-### Airways
+### Airways {#airways}
 
-* **Trachea and Bronchi:**
-    * **Epithelium:** Pseudostratified columnar epithelium with cilia and goblet cells.
-    * **Cartilage:** C-shaped rings in the trachea, irregular plates in the bronchi.
-    * **Glands:** Submucosal seromucous glands.
-    * **Smooth Muscle:** Present.
-    * **Elastic Fibers:** Present.
-* **Mucociliary Clearance System:**
-    * **Function:** Removes inhaled particles and organisms.
-    * **Components:**
-        * **Mucus:** Secreted by goblet cells and seromucous glands, traps particles.
-        * **Cilia:** On columnar cells, move the mucus along the airway towards the pharynx.
+-   **Trachea and Bronchi:**
+    -   **Epithelium:** Pseudostratified columnar epithelium with cilia and goblet cells.
+    -   **Cartilage:** C-shaped rings in the trachea, irregular plates in the bronchi.
+    -   **Glands:** Submucosal seromucous glands.
+    -   **Smooth Muscle:** Present.
+    -   **Elastic Fibers:** Present.
+-   **Mucociliary Clearance System:**
+    -   **Function:** Removes inhaled particles and organisms.
+    -   **Components:**
+        -   **Mucus:** Secreted by goblet cells and seromucous glands, traps particles.
+        -   **Cilia:** On columnar cells, move the mucus along the airway towards the pharynx.
 
-### Bronchioles
+### Bronchioles {#bronchioles}
 
-* **Epithelium:** Ciliated columnar, becoming shorter distally.
-* **Cartilage:** Absent.
-* **Glands:** Absent.
-* **Smooth Muscle:** Present.
-* **Elastic Fibers:** Present.
-* **Terminal Bronchioles:** Contain **club cells** in addition to ciliated cells.
-    * **Club Cells:**
-        * Non-ciliated, non-mucus producing.
-        * Secrete substances to metabolize foreign material.
-        * Progenitors for ciliated cells.
-        * Stabilize surfactant.
-* **Respiratory Bronchioles:**  Transitional zone with both bronchiolar and alveolar epithelium.
+-   **Epithelium:** Ciliated columnar, becoming shorter distally.
+-   **Cartilage:** Absent.
+-   **Glands:** Absent.
+-   **Smooth Muscle:** Present.
+-   **Elastic Fibers:** Present.
+-   **Terminal Bronchioles:** Contain **club cells** in addition to ciliated cells.
+    -   **Club Cells:**
+        -   Non-ciliated, non-mucus producing.
+        -   Secrete substances to metabolize foreign material.
+        -   Progenitors for ciliated cells.
+        -   Stabilize surfactant.
+-   **Respiratory Bronchioles:** Transitional zone with both bronchiolar and alveolar epithelium.
 
-### Alveoli
+### Alveoli {#alveoli}
 
-* **Structure:** Tiny air sacs responsible for gas exchange.
-* **Septa (Alveolar Walls):**
-    * **Type I Pneumocytes:** Thin, squamous cells covering most of the alveolar surface, optimized for gas diffusion.
-    * **Type II Pneumocytes:**  Plump, rounded cells producing surfactant, which reduces surface tension and prevents alveolar collapse.
-    * **Capillary Network:** Extensive, closely spaced capillaries for efficient gas exchange.
-    * **Elastic Fibers:** Allow for expansion and contraction during breathing.
-* **Alveolar Pores (Pores of Kohn):** Small openings connecting adjacent alveoli, facilitating collateral ventilation.
-* **Acinus:** Functional unit of the lung, consisting of a terminal bronchiole and everything distal to it (respiratory bronchioles, alveolar ducts, alveolar sacs, and alveoli).
+-   **Structure:** Tiny air sacs responsible for gas exchange.
+-   **Septa (Alveolar Walls):**
+    -   **Type I Pneumocytes:** Thin, squamous cells covering most of the alveolar surface,
+        optimized for gas diffusion.
+    -   **Type II Pneumocytes:** Plump, rounded cells producing surfactant, which reduces surface
+        tension and prevents alveolar collapse.
+    -   **Capillary Network:** Extensive, closely spaced capillaries for efficient gas exchange.
+    -   **Elastic Fibers:** Allow for expansion and contraction during breathing.
+-   **Alveolar Pores (Pores of Kohn):** Small openings connecting adjacent alveoli, facilitating
+    collateral ventilation.
+-   **Acinus:** Functional unit of the lung, consisting of a terminal bronchiole and everything
+    distal to it (respiratory bronchioles, alveolar ducts, alveolar sacs, and alveoli).
 
-### Pulmonary Vasculature
+### Pulmonary Vasculature {#pulmonary-vasculature}
 
-* **Dual Blood Supply:**
-    * **Pulmonary Circulation:** From the right heart, carries deoxygenated blood to the alveolar capillaries for gas exchange, then returns oxygenated blood to the left heart.
-    * **Bronchial Circulation:** From the aorta, carries oxygenated blood to the lung tissue itself.
-* **Elastic Pulmonary Arteries:** Large arteries accompanying bronchi, similar in structure to the aorta with multiple layers of elastic fibers.
-* **Muscular Pulmonary Arteries:** Accompany bronchioles, unique to the lungs with two layers of elastic tissue surrounding a smooth muscle layer.
-* **Pulmonary Veins:** Travel in the interstitium, have thinner walls than arteries of similar size.
+-   **Dual Blood Supply:**
+    -   **Pulmonary Circulation:** From the right heart, carries deoxygenated blood to the alveolar
+        capillaries for gas exchange, then returns oxygenated blood to the left heart.
+    -   **Bronchial Circulation:** From the aorta, carries oxygenated blood to the lung tissue
+        itself.
+-   **Elastic Pulmonary Arteries:** Large arteries accompanying bronchi, similar in structure to the
+    aorta with multiple layers of elastic fibers.
+-   **Muscular Pulmonary Arteries:** Accompany bronchioles, unique to the lungs with two layers of
+    elastic tissue surrounding a smooth muscle layer.
+-   **Pulmonary Veins:** Travel in the interstitium, have thinner walls than arteries of similar
+    size.
 
-### Pulmonary Interstitium
+### Pulmonary Interstitium {#pulmonary-interstitium}
 
-* **Components:**
-    * Supporting tissue around bronchovascular bundles.
-    * Interalveolar and interlobular septa.
-    * Tissue beneath the pleura.
-* **Function:** Provides structural support, contains lymphatics and pulmonary veins.
-* **Lobules:** Clusters of bronchioles and alveoli surrounded by interlobular septa, the smallest lung division visible to the naked eye.
+-   **Components:**
+    -   Supporting tissue around bronchovascular bundles.
+    -   Interalveolar and interlobular septa.
+    -   Tissue beneath the pleura.
+-   **Function:** Provides structural support, contains lymphatics and pulmonary veins.
+-   **Lobules:** Clusters of bronchioles and alveoli surrounded by interlobular septa, the smallest
+    lung division visible to the naked eye.
 
-### Pleura
+### Pleura {#pleura}
 
-* **Structure:** Single layer of flat mesothelial cells overlying a layer of connective tissue containing collagen and elastic fibers.
-* **Types:**
-    * **Visceral Pleura:** Covers the lung.
-    * **Parietal Pleura:** Lines the thoracic cavity.
-* **Function:** Allows for smooth lung movement during breathing.
+-   **Structure:** Single layer of flat mesothelial cells overlying a layer of connective tissue
+    containing collagen and elastic fibers.
+-   **Types:**
+    -   **Visceral Pleura:** Covers the lung.
+    -   **Parietal Pleura:** Lines the thoracic cavity.
+-   **Function:** Allows for smooth lung movement during breathing.
 
-### Alveolar Macrophages
+### Alveolar Macrophages {#alveolar-macrophages}
 
-* **Origin:** Bone marrow.
-* **Location:** Interstitium, migrate into alveoli when needed.
-* **Function:** Phagocytose dust, organisms, debris.
-* **Clearance:** Mucociliary system or lymphatics.
-* **Clinical Significance:**
-    * May contain pigmented dust, providing clues about environmental exposures.
-    * **Hemosiderin-laden macrophages** indicate prior hemorrhage.
+-   **Origin:** Bone marrow.
+-   **Location:** Interstitium, migrate into alveoli when needed.
+-   **Function:** Phagocytose dust, organisms, debris.
+-   **Clearance:** Mucociliary system or lymphatics.
+-   **Clinical Significance:**
+    -   May contain pigmented dust, providing clues about environmental exposures.
+    -   **Hemosiderin-laden macrophages** indicate prior hemorrhage.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Case Studies in Lung Pathology
+## Case Studies in Lung Pathology {#case-studies-in-lung-pathology}
 
-### Case 1: Acute Bronchopneumonia
+### Case 1: Acute Bronchopneumonia {#case-1-acute-bronchopneumonia}
 
-* **Presentation:** Fever, cough with yellow-green sputum.
-* **Microscopy:** Alveolar airspaces filled with neutrophils.
-* **Diagnosis:** Acute bronchopneumonia, an infection of the lung parenchyma.
-* **Mechanism:**  Neutrophils migrate into the alveoli to fight the infection, leading to the purulent sputum.
+-   **Presentation:** Fever, cough with yellow-green sputum.
+-   **Microscopy:** Alveolar airspaces filled with neutrophils.
+-   **Diagnosis:** Acute bronchopneumonia, an infection of the lung parenchyma.
+-   **Mechanism:** Neutrophils migrate into the alveoli to fight the infection, leading to the
+    purulent sputum.
 
-### Case 2: Centriacinar Emphysema
+### Case 2: Centriacinar Emphysema {#case-2-centriacinar-emphysema}
 
-* **Presentation:** Chronic cough, progressive shortness of breath.
-* **Microscopy:** Loss of alveolar walls, particularly in areas beneath the pleura, resulting in enlarged airspaces.
-* **Diagnosis:** Centriacinar emphysema, a type of chronic obstructive pulmonary disease (COPD).
-* **Mechanism:**  Destruction of alveolar walls reduces surface area for gas exchange and causes bronchioles to collapse, leading to air trapping.
+-   **Presentation:** Chronic cough, progressive shortness of breath.
+-   **Microscopy:** Loss of alveolar walls, particularly in areas beneath the pleura, resulting in
+    enlarged airspaces.
+-   **Diagnosis:** Centriacinar emphysema, a type of chronic obstructive pulmonary disease (COPD).
+-   **Mechanism:** Destruction of alveolar walls reduces surface area for gas exchange and causes
+    bronchioles to collapse, leading to air trapping.
 
-### Case 3: Usual Interstitial Pneumonia (UIP)
+### Case 3: Usual Interstitial Pneumonia (UIP) {#case-3-usual-interstitial-pneumonia-uip}
 
-* **Presentation:** Progressive respiratory failure.
-* **Microscopy:**  Thickened alveolar walls (fibrosis) due to increased collagen, enlarged airspaces, chronic inflammatory cells.
-* **Diagnosis:**  UIP, a type of idiopathic pulmonary fibrosis.
-* **Mechanism:** Fibrosis makes the lungs stiff, impairing gas exchange and lung expansion. Enlarged airspaces are a result of alveolar destruction.
+-   **Presentation:** Progressive respiratory failure.
+-   **Microscopy:** Thickened alveolar walls (fibrosis) due to increased collagen, enlarged
+    airspaces, chronic inflammatory cells.
+-   **Diagnosis:** UIP, a type of idiopathic pulmonary fibrosis.
+-   **Mechanism:** Fibrosis makes the lungs stiff, impairing gas exchange and lung expansion.
+    Enlarged airspaces are a result of alveolar destruction.
 
-### Case 4: Acute Bronchitis
+### Case 4: Acute Bronchitis {#case-4-acute-bronchitis}
 
-* **Presentation:** Smoker with COPD, acutely worsened cough.
-* **Microscopy:** Inflammation primarily limited to the lumens of bronchioles, with neutrophils as the dominant cell type.
-* **Diagnosis:**  Acute bronchitis, inflammation of the bronchioles.
-* **Mechanism:**  Neutrophils are recruited to the bronchioles in response to an irritant (likely smoking), causing inflammation and airway obstruction.
+-   **Presentation:** Smoker with COPD, acutely worsened cough.
+-   **Microscopy:** Inflammation primarily limited to the lumens of bronchioles, with neutrophils as
+    the dominant cell type.
+-   **Diagnosis:** Acute bronchitis, inflammation of the bronchioles.
+-   **Mechanism:** Neutrophils are recruited to the bronchioles in response to an irritant (likely
+    smoking), causing inflammation and airway obstruction.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Key Points
 
-* **Normal Histology:** Understanding the normal microscopic anatomy of the lung is crucial for recognizing and interpreting pathological changes.
-* **Pathological Processes:** Common lung diseases affect different components of the lung, leading to distinct microscopic abnormalities and clinical presentations.
-* **Structure-Function Correlation:**  The intricate structure of the lung is optimized for gas exchange, and any disruption to this delicate balance can impair lung function.
-* **Case Studies:** Analyzing case studies helps bridge the gap between microscopic findings and clinical presentations, enhancing diagnostic skills.
+-   **Normal Histology:** Understanding the normal microscopic anatomy of the lung is crucial for
+    recognizing and interpreting pathological changes.
+-   **Pathological Processes:** Common lung diseases affect different components of the lung,
+    leading to distinct microscopic abnormalities and clinical presentations.
+-   **Structure-Function Correlation:** The intricate structure of the lung is optimized for gas
+    exchange, and any disruption to this delicate balance can impair lung function.
+-   **Case Studies:** Analyzing case studies helps bridge the gap between microscopic findings and
+    clinical presentations, enhancing diagnostic skills.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Glossary
 
-* **Acinus:** The functional unit of the lung, consisting of respiratory bronchioles, alveolar ducts, and alveolar sacs.
-* **Alveoli:** Tiny air sacs in the lungs where gas exchange occurs.
-* **Bronchi:** The major air passages that branch from the trachea and lead to the lungs.
-* **Bronchioles:** Smaller air passages that branch from the bronchi.
-* **Centriacinar Emphysema:** A type of COPD characterized by destruction of alveolar walls, primarily in the center of the lobule.
-* **Club Cells:** Non-ciliated cells in the terminal bronchioles that secrete substances to protect the airways.
-* **Fibrosis:** The formation of excess fibrous connective tissue, often as a result of inflammation or injury.
-* **Goblet Cells:** Cells in the airway epithelium that secrete mucus.
-* **Hemosiderin:**  A pigment derived from the breakdown of hemoglobin, often found in macrophages after hemorrhage.
-* **Interstitium:**  The supporting tissue framework of the lung, containing blood vessels, lymphatics, and connective tissue.
-* **Lobules:**  Small, polygonal units of lung tissue surrounded by interlobular septa.
-* **Macrophages:** Phagocytic cells that engulf and destroy foreign material and cellular debris.
-* **Mesothelial Cells:**  Flat cells that line the pleura.
-* **Mucociliary Clearance System:** The mechanism by which mucus and trapped particles are moved out of the airways by the coordinated action of cilia.
-* **Neutrophils:**  A type of white blood cell that plays a key role in acute inflammation, particularly in fighting bacterial infections.
-* **Pneumocytes:**  Cells that line the alveoli.
-    * **Type I Pneumocytes:** Thin cells specialized for gas exchange.
-    * **Type II Pneumocytes:** Produce surfactant.
-* **Pores of Kohn:** Small openings connecting adjacent alveoli.
-* **Pulmonary Circulation:** The blood flow from the right heart to the lungs for gas exchange, and then back to the left heart.
-* **Septa:** The thin walls that separate alveoli.
-* **Surfactant:**  A substance produced by Type II pneumocytes that reduces surface tension in the alveoli, preventing their collapse.
-* **Usual Interstitial Pneumonia (UIP):** A type of idiopathic pulmonary fibrosis characterized by patchy fibrosis, enlarged airspaces (honeycombing), and a poor prognosis.
+-   **Acinus:** The functional unit of the lung, consisting of respiratory bronchioles, alveolar
+    ducts, and alveolar sacs.
+-   **Alveoli:** Tiny air sacs in the lungs where gas exchange occurs.
+-   **Bronchi:** The major air passages that branch from the trachea and lead to the lungs.
+-   **Bronchioles:** Smaller air passages that branch from the bronchi.
+-   **Centriacinar Emphysema:** A type of COPD characterized by destruction of alveolar walls,
+    primarily in the center of the lobule.
+-   **Club Cells:** Non-ciliated cells in the terminal bronchioles that secrete substances to
+    protect the airways.
+-   **Fibrosis:** The formation of excess fibrous connective tissue, often as a result of
+    inflammation or injury.
+-   **Goblet Cells:** Cells in the airway epithelium that secrete mucus.
+-   **Hemosiderin:** A pigment derived from the breakdown of hemoglobin, often found in macrophages
+    after hemorrhage.
+-   **Interstitium:** The supporting tissue framework of the lung, containing blood vessels,
+    lymphatics, and connective tissue.
+-   **Lobules:** Small, polygonal units of lung tissue surrounded by interlobular septa.
+-   **Macrophages:** Phagocytic cells that engulf and destroy foreign material and cellular debris.
+-   **Mesothelial Cells:** Flat cells that line the pleura.
+-   **Mucociliary Clearance System:** The mechanism by which mucus and trapped particles are moved
+    out of the airways by the coordinated action of cilia.
+-   **Neutrophils:** A type of white blood cell that plays a key role in acute inflammation,
+    particularly in fighting bacterial infections.
+-   **Pneumocytes:** Cells that line the alveoli.
+    -   **Type I Pneumocytes:** Thin cells specialized for gas exchange.
+    -   **Type II Pneumocytes:** Produce surfactant.
+-   **Pores of Kohn:** Small openings connecting adjacent alveoli.
+-   **Pulmonary Circulation:** The blood flow from the right heart to the lungs for gas exchange,
+    and then back to the left heart.
+-   **Septa:** The thin walls that separate alveoli.
+-   **Surfactant:** A substance produced by Type II pneumocytes that reduces surface tension in the
+    alveoli, preventing their collapse.
+-   **Usual Interstitial Pneumonia (UIP):** A type of idiopathic pulmonary fibrosis characterized by
+    patchy fibrosis, enlarged airspaces (honeycombing), and a poor prognosis.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Lectures 3 and 4: Lung Mechanics I/II
 
 ### Overview
 
-These two lectures provide a comprehensive foundation in lung mechanics, essential for understanding respiratory physiology and interpreting pulmonary function tests. Lecture 3, focusing on **statics**, introduces key concepts like **transmural pressure, compliance, and elastance**, explaining how the elastic properties of the lung and chest wall determine lung volumes. It delves into the crucial role of **surfactant** in reducing surface tension and stabilizing alveoli. The lecture then explores the **pressure-volume relationships** of the lung, chest wall, and the respiratory system as a whole, highlighting how these relationships are measured and how they can be altered in disease states. Lecture 4 shifts to **dynamics**, focusing on **airflow resistance** and the factors that influence it. It distinguishes between **laminar, turbulent, and transitional flow** in the airways, explaining how these patterns are governed by **Poiseuille's Law and the Reynolds number**.  The lecture culminates in the concept of **flow limitation**, a critical phenomenon in obstructive lung diseases, and illustrates this using **flow-volume curves**.
+These two lectures provide a comprehensive foundation in lung mechanics, essential for understanding
+respiratory physiology and interpreting pulmonary function tests. Lecture 3, focusing on
+**statics**, introduces key concepts like **transmural pressure, compliance, and elastance**,
+explaining how the elastic properties of the lung and chest wall determine lung volumes. It delves
+into the crucial role of **surfactant** in reducing surface tension and stabilizing alveoli. The
+lecture then explores the **pressure-volume relationships** of the lung, chest wall, and the
+respiratory system as a whole, highlighting how these relationships are measured and how they can be
+altered in disease states. Lecture 4 shifts to **dynamics**, focusing on **airflow resistance** and
+the factors that influence it. It distinguishes between **laminar, turbulent, and transitional
+flow** in the airways, explaining how these patterns are governed by **Poiseuille's Law and the
+Reynolds number**. The lecture culminates in the concept of **flow limitation**, a critical
+phenomenon in obstructive lung diseases, and illustrates this using **flow-volume curves**.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Table of Contents
 
 **Lecture 3: Lung Mechanics I: Statics**
 
-* [Key Concepts in Static Lung Mechanics](#key-concepts-in-static-lung-mechanics)
-  * [Elastic Properties](#elastic-properties)
-  * [Inspiration and Pleural Pressure](#inspiration-and-pleural-pressure)
-  * [Surface Tension and Elastic Recoil](#surface-tension-and-elastic-recoil)
-  * [Surfactant's Role](#surfactants-role)
-  * [Lung Volumes and Restrictive Lung Diseases](#lung-volumes-and-restrictive-lung-diseases)
-* [Pressure-Volume Relationships](#pressure-volume-relationships)
-  * [Transmural Pressure](#transmural-pressure)
-    * [Transpulmonary Pressure](#transpulmonary-pressure)
-    * [Transdiaphragmatic Pressure](#transdiaphragmatic-pressure)
-  * [Compliance and Elastance](#compliance-and-elastance)
-  * [Unstressed and Stressed Volume](#unstressed-and-stressed-volume)
-  * [Spontaneous Breathing and Pressure Changes](#spontaneous-breathing-and-pressure-changes)
-  * [Measuring Lung Compliance](#measuring-lung-compliance)
-  * [Lung Compliance Curve](#lung-compliance-curve)
-    * [Hysteresis](#hysteresis)
-    * [Tissue Properties and Surface Tension](#tissue-properties-and-surface-tension)
-  * [Surfactant and Surface Tension Reduction](#surfactant-and-surface-tension-reduction)
-    * [Effects of Surfactant](#effects-of-surfactant)
-    * [LaPlace Relationship and Alveolar Stability](#laplace-relationship-and-alveolar-stability)
-  * [Disorders of Lung Compliance](#disorders-of-lung-compliance)
-  * [Chest Wall Compliance](#chest-wall-compliance)
-    * [Measurement of Chest Wall Compliance](#measurement-of-chest-wall-compliance)
-    * [Disorders of Chest Wall Compliance](#disorders-of-chest-wall-compliance)
-  * [Respiratory System Compliance](#respiratory-system-compliance)
-* [Determinants of Lung Volume](#determinants-of-lung-volume)
-  * [Residual Volume (RV)](#residual-volume-rv)
-  * [Functional Residual Capacity (FRC)](#functional-residual-capacity-frc)
-  * [Total Lung Capacity (TLC)](#total-lung-capacity-tlc)
-* [Restrictive Lung Diseases](#restrictive-lung-diseases)
-
+-   [Key Concepts in Static Lung Mechanics](#key-concepts-in-static-lung-mechanics)
+    -   [Elastic Properties](#elastic-properties)
+    -   [Inspiration and Pleural Pressure](#inspiration-and-pleural-pressure)
+    -   [Surface Tension and Elastic Recoil](#surface-tension-and-elastic-recoil)
+    -   [Surfactant's Role](#surfactants-role)
+    -   [Lung Volumes and Restrictive Lung Diseases](#lung-volumes-and-restrictive-lung-diseases)
+-   [Pressure-Volume Relationships](#pressure-volume-relationships)
+    -   [Transmural Pressure](#transmural-pressure)
+        -   [Transpulmonary Pressure](#transpulmonary-pressure)
+        -   [Transdiaphragmatic Pressure](#transdiaphragmatic-pressure)
+    -   [Compliance and Elastance](#compliance-and-elastance)
+    -   [Unstressed and Stressed Volume](#unstressed-and-stressed-volume)
+    -   [Spontaneous Breathing and Pressure Changes](#spontaneous-breathing-and-pressure-changes)
+    -   [Measuring Lung Compliance](#measuring-lung-compliance)
+    -   [Lung Compliance Curve](#lung-compliance-curve)
+        -   [Hysteresis](#hysteresis)
+        -   [Tissue Properties and Surface Tension](#tissue-properties-and-surface-tension)
+    -   [Surfactant and Surface Tension Reduction](#surfactant-and-surface-tension-reduction)
+        -   [Effects of Surfactant](#effects-of-surfactant)
+        -   [LaPlace Relationship and Alveolar
+            Stability](#laplace-relationship-and-alveolar-stability)
+    -   [Disorders of Lung Compliance](#disorders-of-lung-compliance)
+    -   [Chest Wall Compliance](#chest-wall-compliance)
+        -   [Measurement of Chest Wall Compliance](#measurement-of-chest-wall-compliance)
+        -   [Disorders of Chest Wall Compliance](#disorders-of-chest-wall-compliance)
+    -   [Respiratory System Compliance](#respiratory-system-compliance)
+-   [Determinants of Lung Volume](#determinants-of-lung-volume)
+    -   [Residual Volume (RV)](#residual-volume-rv)
+    -   [Functional Residual Capacity (FRC)](#functional-residual-capacity-frc)
+    -   [Total Lung Capacity (TLC)](#total-lung-capacity-tlc)
+-   [Restrictive Lung Diseases](#restrictive-lung-diseases)
 
 **Lecture 4: Lung Mechanics II: Dynamics**
 
-* [Key Concepts in Dynamic Lung Mechanics](#key-concepts-in-dynamic-lung-mechanics)
-  * [Resistance and Airway Flow](#resistance-and-airway-flow)
-  * [Large Airways and Resistance](#large-airways-and-resistance)
-  * [Factors Affecting Resistance](#factors-affecting-resistance)
-  * [Flow Limitation and Obstructive Lung Diseases](#flow-limitation-and-obstructive-lung-diseases)
-* [Determinants of Flow](#determinants-of-flow)
-  * [Resistance](#resistance)
-  * [Tissue Resistance](#tissue-resistance)
-  * [Airway Resistance](#airway-resistance)
-* [Airflow Dynamics](#airflow-dynamics)
-  * [Three Flow Patterns](#three-flow-patterns)
-    * [Laminar Flow](#laminar-flow)
-    * [Turbulent Flow](#turbulent-flow)
-    * [Transitional Flow](#transitional-flow)
-* [Laminar Flow and Poiseuille's Law](#laminar-flow-and-poiseuilles-law)
-  * [Factors Affecting Laminar Flow Resistance](#factors-affecting-laminar-flow-resistance)
-    * [Length](#length)
-    * [Viscosity](#viscosity)
-    * [Radius](#radius)
-* [Turbulent Flow](#turbulent-flow)
-  * [Characteristics of Turbulent Flow](#characteristics-of-turbulent-flow)
-  * [Factors Affecting Turbulent Flow Resistance](#factors-affecting-turbulent-flow-resistance)
-    * [Density](#density)
-    * [Radius](#radius)
-* [Airflow Resistance in the Lungs](#airflow-resistance-in-the-lungs)
-  * [Location of Resistance](#location-of-resistance)
-  * [Factors Affecting Airway Resistance](#factors-affecting-airway-resistance)
-    * [Bronchoconstriction](#bronchoconstriction)
-    * [Lung Volume](#lung-volume)
-* [Flow Limitation: Flow-Volume Curve](#flow-limitation-flow-volume-curve)
-  * [Effort Dependence and Independence](#effort-dependence-and-independence)
-  * [Mechanism of Flow Limitation](#mechanism-of-flow-limitation)
-  * [Factors Affecting Flow Limitation](#factors-affecting-flow-limitation)
-* [Abnormal Flow Limitation](#abnormal-flow-limitation)
-  * [Causes of Decreased Maximal Flow](#causes-of-decreased-maximal-flow)
-  * [Obstructive Lung Diseases](#obstructive-lung-diseases)
-* [Key Takeaways](#key-takeaways)
-* [Glossary](#glossary)
+-   [Key Concepts in Dynamic Lung Mechanics](#key-concepts-in-dynamic-lung-mechanics)
+    -   [Resistance and Airway Flow](#resistance-and-airway-flow)
+    -   [Large Airways and Resistance](#large-airways-and-resistance)
+    -   [Factors Affecting Resistance](#factors-affecting-resistance)
+    -   [Flow Limitation and Obstructive Lung
+        Diseases](#flow-limitation-and-obstructive-lung-diseases)
+-   [Determinants of Flow](#determinants-of-flow)
+    -   [Resistance](#resistance)
+    -   [Tissue Resistance](#tissue-resistance)
+    -   [Airway Resistance](#airway-resistance)
+-   [Airflow Dynamics](#airflow-dynamics)
+    -   [Three Flow Patterns](#three-flow-patterns)
+        -   [Laminar Flow](#laminar-flow)
+        -   [Turbulent Flow](#turbulent-flow)
+        -   [Transitional Flow](#transitional-flow)
+-   [Laminar Flow and Poiseuille's Law](#laminar-flow-and-poiseuilles-law)
+    -   [Factors Affecting Laminar Flow Resistance](#factors-affecting-laminar-flow-resistance)
+        -   [Length](#length)
+        -   [Viscosity](#viscosity)
+        -   [Radius](#radius)
+-   [Turbulent Flow](#turbulent-flow)
+    -   [Characteristics of Turbulent Flow](#characteristics-of-turbulent-flow)
+    -   [Factors Affecting Turbulent Flow Resistance](#factors-affecting-turbulent-flow-resistance)
+        -   [Density](#density)
+        -   [Radius](#radius)
+-   [Airflow Resistance in the Lungs](#airflow-resistance-in-the-lungs)
+    -   [Location of Resistance](#location-of-resistance)
+    -   [Factors Affecting Airway Resistance](#factors-affecting-airway-resistance)
+        -   [Bronchoconstriction](#bronchoconstriction)
+        -   [Lung Volume](#lung-volume)
+-   [Flow Limitation: Flow-Volume Curve](#flow-limitation-flow-volume-curve)
+    -   [Effort Dependence and Independence](#effort-dependence-and-independence)
+    -   [Mechanism of Flow Limitation](#mechanism-of-flow-limitation)
+    -   [Factors Affecting Flow Limitation](#factors-affecting-flow-limitation)
+-   [Abnormal Flow Limitation](#abnormal-flow-limitation)
+    -   [Causes of Decreased Maximal Flow](#causes-of-decreased-maximal-flow)
+    -   [Obstructive Lung Diseases](#obstructive-lung-diseases)
+-   [Key Takeaways](#key-takeaways)
+-   [Glossary](#glossary)
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Lecture 3: Lung Mechanics I: Statics
 
-### Key Concepts in Static Lung Mechanics
+### Key Concepts in Static Lung Mechanics {#key-concepts-in-static-lung-mechanics}
 
-#### Elastic Properties
+#### Elastic Properties {#elastic-properties}
 
-* Both the **lung** and the **chest wall** have inherent elastic properties.
-* These properties determine the **pressure needed to expand** these structures.
-* Think of them like balloons: they resist being stretched and tend to recoil back to their original size.
+-   Both the **lung** and the **chest wall** have inherent elastic properties.
+-   These properties determine the **pressure needed to expand** these structures.
+-   Think of them like balloons: they resist being stretched and tend to recoil back to their
+    original size.
 
-#### Inspiration and Pleural Pressure
+#### Inspiration and Pleural Pressure {#inspiration-and-pleural-pressure}
 
-* **Inspiration** occurs when the **respiratory muscles** contract.
-* This contraction **lowers the pressure** within the **pleural space** (the space between the lung and chest wall).
-* The lowered pleural pressure allows the **alveoli** (tiny air sacs in the lungs) to **expand**, drawing air in.
+-   **Inspiration** occurs when the **respiratory muscles** contract.
+-   This contraction **lowers the pressure** within the **pleural space** (the space between the
+    lung and chest wall).
+-   The lowered pleural pressure allows the **alveoli** (tiny air sacs in the lungs) to **expand**,
+    drawing air in.
 
-#### Surface Tension and Elastic Recoil
+#### Surface Tension and Elastic Recoil {#surface-tension-and-elastic-recoil}
 
-* The **elastic recoil of the lung** is the force that causes it to want to collapse inward.
-* **Surface tension**, a force created at the air-liquid interface within the alveoli, contributes significantly to this recoil.
-* The **elasticity of the lung tissue itself** also plays a role in elastic recoil.
+-   The **elastic recoil of the lung** is the force that causes it to want to collapse inward.
+-   **Surface tension**, a force created at the air-liquid interface within the alveoli, contributes
+    significantly to this recoil.
+-   The **elasticity of the lung tissue itself** also plays a role in elastic recoil.
 
-#### Surfactant's Role
+#### Surfactant's Role {#surfactants-role}
 
-* **Surfactant**, a substance produced by Type II pneumocytes in the alveoli, **reduces surface tension**.
-* By reducing surface tension, surfactant helps to **stabilize the alveoli**, preventing them from collapsing.
-* **Surfactant deficiency** (e.g., in premature infants) leads to **difficulty breathing** due to increased surface tension.
+-   **Surfactant**, a substance produced by Type II pneumocytes in the alveoli, **reduces surface
+    tension**.
+-   By reducing surface tension, surfactant helps to **stabilize the alveoli**, preventing them from
+    collapsing.
+-   **Surfactant deficiency** (e.g., in premature infants) leads to **difficulty breathing** due to
+    increased surface tension.
 
-#### Lung Volumes and Restrictive Lung Diseases
+#### Lung Volumes and Restrictive Lung Diseases {#lung-volumes-and-restrictive-lung-diseases}
 
-* The **elastic properties** of the lung and airways determine various **lung volumes**.
-* These volumes include:
-    * **Total Lung Capacity (TLC):** The maximum amount of air the lungs can hold.
-    * **Residual Volume (RV):** The amount of air remaining in the lungs after a maximal exhalation.
-    * **Functional Residual Capacity (FRC):** The volume of air in the lungs at the end of a normal, relaxed exhalation.
-* **Restrictive lung diseases** are characterized by **abnormalities in these volumes**, often due to decreased lung compliance (stiff lungs).
+-   The **elastic properties** of the lung and airways determine various **lung volumes**.
+-   These volumes include:
+    -   **Total Lung Capacity (TLC):** The maximum amount of air the lungs can hold.
+    -   **Residual Volume (RV):** The amount of air remaining in the lungs after a maximal
+        exhalation.
+    -   **Functional Residual Capacity (FRC):** The volume of air in the lungs at the end of a
+        normal, relaxed exhalation.
+-   **Restrictive lung diseases** are characterized by **abnormalities in these volumes**, often due
+    to decreased lung compliance (stiff lungs).
 
----
+----------------------------------------------------------------------------------------------------
 
-### Pressure-Volume Relationships
+### Pressure-Volume Relationships {#pressure-volume-relationships}
 
-#### Transmural Pressure
+#### Transmural Pressure {#transmural-pressure}
 
-**Transmural pressure** is the pressure difference across the wall of a structure. It is calculated as:
+**Transmural pressure** is the pressure difference across the wall of a structure. It is calculated
+as:
 
-```
+```         
 Transmural Pressure = Pressure Inside - Pressure Outside 
 ```
 
-##### Transpulmonary Pressure
+##### Transpulmonary Pressure {#transpulmonary-pressure}
 
-* The **transpulmonary pressure (P<sub>L</sub>)** is the pressure across the **lung**.
-* It is calculated as:
-    ```
-    P<sub>L</sub> = Alveolar Pressure (P<sub>alv</sub>) - Pleural Pressure (P<sub>pl</sub>)
-    ```
-* P<sub>L</sub> is also known as the **elastic recoil pressure**.
+-   The **transpulmonary pressure (P**<sub>L</sub>) is the pressure across the **lung**.
+-   It is calculated as:
+    `P<sub>L</sub> = Alveolar Pressure (P<sub>alv</sub>) - Pleural Pressure (P<sub>pl</sub>)`
+-   P<sub>L</sub> is also known as the **elastic recoil pressure**.
 
-##### Transdiaphragmatic Pressure
+##### Transdiaphragmatic Pressure {#transdiaphragmatic-pressure}
 
-* The **transdiaphragmatic pressure (P<sub>di</sub>)** is the pressure across the **diaphragm**.
-* Since the diaphragm curves around the abdomen, P<sub>di</sub> is calculated as:
-    ```
-    P<sub>di</sub> = Abdominal Pressure - Pleural Pressure (P<sub>pl</sub>)
-    ```
+-   The **transdiaphragmatic pressure (P**<sub>di</sub>) is the pressure across the **diaphragm**.
+-   Since the diaphragm curves around the abdomen, P<sub>di</sub> is calculated as:
+    `P<sub>di</sub> = Abdominal Pressure - Pleural Pressure (P<sub>pl</sub>)`
 
-#### Compliance and Elastance
+#### Compliance and Elastance {#compliance-and-elastance}
 
-* **Compliance** is a measure of the **ease with which a structure can be stretched**. It is the slope of the pressure-volume curve.
-    ```
-    Compliance = ΔV / ΔP 
-    ```
-* **High compliance** means a structure is **easily distensible** (stretchable).
-* **Elastance** is the **reciprocal of compliance**, representing the stiffness of a structure.
-    ```
-    Elastance = 1 / Compliance = ΔP / ΔV
-    ```
-* **High elastance** means a structure is **very stiff**.
-* In pulmonary physiology, **compliance** is the **preferred term**.
+-   **Compliance** is a measure of the **ease with which a structure can be stretched**. It is the
+    slope of the pressure-volume curve. `Compliance = ΔV / ΔP`
+-   **High compliance** means a structure is **easily distensible** (stretchable).
+-   **Elastance** is the **reciprocal of compliance**, representing the stiffness of a structure.
+    `Elastance = 1 / Compliance = ΔP / ΔV`
+-   **High elastance** means a structure is **very stiff**.
+-   In pulmonary physiology, **compliance** is the **preferred term**.
 
-#### Unstressed and Stressed Volume
+#### Unstressed and Stressed Volume {#unstressed-and-stressed-volume}
 
-* **Unstressed Volume (Relaxation Volume):** The volume of an elastic structure when the transmural pressure is zero. Think of a deflated balloon.
-* **Stressed Volume:** Any volume added above the unstressed volume, causing the structure to distend. Think of an inflated balloon.
+-   **Unstressed Volume (Relaxation Volume):** The volume of an elastic structure when the
+    transmural pressure is zero. Think of a deflated balloon.
+-   **Stressed Volume:** Any volume added above the unstressed volume, causing the structure to
+    distend. Think of an inflated balloon.
 
-#### Spontaneous Breathing and Pressure Changes
+#### Spontaneous Breathing and Pressure Changes {#spontaneous-breathing-and-pressure-changes}
 
-* During **spontaneous breathing**, the **pleural pressure (P<sub>pl</sub>)** changes to drive airflow into and out of the lungs.
-* **Inspiration:** Inspiratory muscles contract, **decreasing P<sub>pl</sub>**. This lowers alveolar pressure (P<sub>alv</sub>), creating a pressure gradient for air to flow into the lungs.
-* **Expiration:** Inspiratory muscles relax, **increasing P<sub>pl</sub>**. This raises P<sub>alv</sub>, causing air to flow out of the lungs.
+-   During **spontaneous breathing**, the **pleural pressure (P**<sub>pl</sub>) changes to drive
+    airflow into and out of the lungs.
+-   **Inspiration:** Inspiratory muscles contract, **decreasing P**<sub>pl</sub>. This lowers
+    alveolar pressure (P<sub>alv</sub>), creating a pressure gradient for air to flow into the
+    lungs.
+-   **Expiration:** Inspiratory muscles relax, **increasing P**<sub>pl</sub>. This raises
+    P<sub>alv</sub>, causing air to flow out of the lungs.
 
-#### Measuring Lung Compliance
+#### Measuring Lung Compliance {#measuring-lung-compliance}
 
-* Lung compliance can be measured using an **esophageal balloon catheter** to estimate pleural pressure.
-* The patient inhales maximally and then exhales into a spirometer while a shutter periodically interrupts flow to measure **static lung volumes** and **transpulmonary pressures**.
+-   Lung compliance can be measured using an **esophageal balloon catheter** to estimate pleural
+    pressure.
+-   The patient inhales maximally and then exhales into a spirometer while a shutter periodically
+    interrupts flow to measure **static lung volumes** and **transpulmonary pressures**.
 
-#### Lung Compliance Curve
+#### Lung Compliance Curve {#lung-compliance-curve}
 
-* A **lung compliance curve** plots **lung volume** against **transpulmonary pressure**.
-* It is typically measured during **expiration**, starting from total lung capacity (TLC) down to residual volume (RV).
+-   A **lung compliance curve** plots **lung volume** against **transpulmonary pressure**.
+-   It is typically measured during **expiration**, starting from total lung capacity (TLC) down to
+    residual volume (RV).
 
-##### Hysteresis
+##### Hysteresis {#hysteresis}
 
-* The **lung compliance curve** is **not a straight line**; it forms a loop, demonstrating **hysteresis**.
-* **Hysteresis** means that achieving the **same lung volume requires different pressures** during inspiration and expiration.
-* This is due to several factors, including:
-    * **Lung unit closure** at small volumes.
-    * **Stress relaxation** (viscoelasticity) of lung tissue.
-    * The presence of **surfactant**.
+-   The **lung compliance curve** is **not a straight line**; it forms a loop, demonstrating
+    **hysteresis**.
+-   **Hysteresis** means that achieving the **same lung volume requires different pressures** during
+    inspiration and expiration.
+-   This is due to several factors, including:
+    -   **Lung unit closure** at small volumes.
+    -   **Stress relaxation** (viscoelasticity) of lung tissue.
+    -   The presence of **surfactant**.
 
-##### Tissue Properties and Surface Tension
+##### Tissue Properties and Surface Tension {#tissue-properties-and-surface-tension}
 
-* The **shape of the lung compliance curve** is influenced by:
-    * The **elastic properties of the lung tissue** (primarily elastin and collagen fibers).
-    * The **surface tension** at the air-liquid interface in the alveoli.
+-   The **shape of the lung compliance curve** is influenced by:
+    -   The **elastic properties of the lung tissue** (primarily elastin and collagen fibers).
+    -   The **surface tension** at the air-liquid interface in the alveoli.
 
-#### Surfactant and Surface Tension Reduction
+#### Surfactant and Surface Tension Reduction {#surfactant-and-surface-tension-reduction}
 
-##### Effects of Surfactant
+##### Effects of Surfactant {#effects-of-surfactant}
 
-* **Surfactant** significantly **reduces surface tension**, making the lungs more compliant.
-* **Surfactant deficiency** leads to **increased surface tension** and **decreased compliance**, making the lungs stiffer and harder to inflate.
+-   **Surfactant** significantly **reduces surface tension**, making the lungs more compliant.
+-   **Surfactant deficiency** leads to **increased surface tension** and **decreased compliance**,
+    making the lungs stiffer and harder to inflate.
 
-##### LaPlace Relationship and Alveolar Stability
+##### LaPlace Relationship and Alveolar Stability {#laplace-relationship-and-alveolar-stability}
 
-* **LaPlace's Law:** In a sphere (like an alveolus), the pressure inside is proportional to the wall tension divided by the radius.
-* **Without surfactant:** Smaller alveoli would have **higher pressure** than larger alveoli, causing air to flow from smaller to larger ones, leading to **alveolar instability**.
-* **Surfactant:** By **reducing surface tension more in smaller alveoli**, surfactant **equalizes pressures** and **stabilizes alveoli** of varying sizes.
+-   **LaPlace's Law:** In a sphere (like an alveolus), the pressure inside is proportional to the
+    wall tension divided by the radius.
+-   **Without surfactant:** Smaller alveoli would have **higher pressure** than larger alveoli,
+    causing air to flow from smaller to larger ones, leading to **alveolar instability**.
+-   **Surfactant:** By **reducing surface tension more in smaller alveoli**, surfactant **equalizes
+    pressures** and **stabilizes alveoli** of varying sizes.
 
-#### Disorders of Lung Compliance
+#### Disorders of Lung Compliance {#disorders-of-lung-compliance}
 
-* **Emphysema:** **Increased compliance** (floppy lungs) due to destruction of alveolar walls, leading to easy inflation but difficulty exhaling (air trapping).
-* **Pulmonary Fibrosis:** **Decreased compliance** (stiff lungs) due to scarring (fibrosis) of lung tissue, making breathing difficult.
-* **Surfactant Deficiency:** **Decreased compliance** due to increased surface tension, common in premature infants (infant respiratory distress syndrome).
+-   **Emphysema:** **Increased compliance** (floppy lungs) due to destruction of alveolar walls,
+    leading to easy inflation but difficulty exhaling (air trapping).
+-   **Pulmonary Fibrosis:** **Decreased compliance** (stiff lungs) due to scarring (fibrosis) of
+    lung tissue, making breathing difficult.
+-   **Surfactant Deficiency:** **Decreased compliance** due to increased surface tension, common in
+    premature infants (infant respiratory distress syndrome).
 
-#### Chest Wall Compliance
+#### Chest Wall Compliance {#chest-wall-compliance}
 
-* The **chest wall** also has elastic properties and its own **compliance curve**.
-* At low lung volumes, the chest wall becomes **stiffer** due to the rigidity of the rib cage and the limited stretch of the diaphragm.
+-   The **chest wall** also has elastic properties and its own **compliance curve**.
+-   At low lung volumes, the chest wall becomes **stiffer** due to the rigidity of the rib cage and
+    the limited stretch of the diaphragm.
 
-##### Measurement of Chest Wall Compliance
+##### Measurement of Chest Wall Compliance {#measurement-of-chest-wall-compliance}
 
-* It is difficult to measure chest wall compliance accurately in awake patients because they have some muscle tone.
-* Accurate measurements require **sedation and paralysis** to eliminate muscle activity.
+-   It is difficult to measure chest wall compliance accurately in awake patients because they have
+    some muscle tone.
+-   Accurate measurements require **sedation and paralysis** to eliminate muscle activity.
 
-##### Disorders of Chest Wall Compliance
+##### Disorders of Chest Wall Compliance {#disorders-of-chest-wall-compliance}
 
-* **Fibrothorax:** **Decreased compliance** due to scarring of the pleural surface, often after infection or inflammation.
-* **Kyphoscoliosis:** **Decreased compliance** due to abnormal curvature of the spine, restricting chest wall expansion.
-* **Obesity:** **Decreased compliance** due to the added weight and restriction of chest wall movement.
+-   **Fibrothorax:** **Decreased compliance** due to scarring of the pleural surface, often after
+    infection or inflammation.
+-   **Kyphoscoliosis:** **Decreased compliance** due to abnormal curvature of the spine, restricting
+    chest wall expansion.
+-   **Obesity:** **Decreased compliance** due to the added weight and restriction of chest wall
+    movement.
 
-#### Respiratory System Compliance
+#### Respiratory System Compliance {#respiratory-system-compliance}
 
-* The **respiratory system compliance** represents the **combined compliance** of the lung and chest wall.
-* Since the lung and chest wall are in series, their **reciprocals are added** to calculate the overall compliance:
-    ```
-    1 / Respiratory System Compliance = 1 / Lung Compliance + 1 / Chest Wall Compliance
-    ```
+-   The **respiratory system compliance** represents the **combined compliance** of the lung and
+    chest wall.
+-   Since the lung and chest wall are in series, their **reciprocals are added** to calculate the
+    overall compliance:
+    `1 / Respiratory System Compliance = 1 / Lung Compliance + 1 / Chest Wall Compliance`
 
----
+----------------------------------------------------------------------------------------------------
 
-## Determinants of Lung Volume
+## Determinants of Lung Volume {#determinants-of-lung-volume}
 
-The following lung volumes are determined by the interplay of the lung's elastic properties, the chest wall's compliance, and the strength of the respiratory muscles:
+The following lung volumes are determined by the interplay of the lung's elastic properties, the
+chest wall's compliance, and the strength of the respiratory muscles:
 
-#### Residual Volume (RV)
+#### Residual Volume (RV) {#residual-volume-rv}
 
-* The **smallest lung volume** that can be achieved after a maximal exhalation.
-* At RV, the **airways are closed**, trapping a volume of air in the lungs.
+-   The **smallest lung volume** that can be achieved after a maximal exhalation.
+-   At RV, the **airways are closed**, trapping a volume of air in the lungs.
 
-#### Functional Residual Capacity (FRC)
+#### Functional Residual Capacity (FRC) {#functional-residual-capacity-frc}
 
-* The **volume of air in the lungs at the end of a normal, relaxed exhalation**.
-* At FRC, the **inward recoil of the lungs** is **balanced by the outward recoil of the relaxed chest wall**.
-* FRC is affected by:
-    * **Lung compliance:** Increased compliance (e.g., emphysema) increases FRC.
-    * **Chest wall compliance:** Decreased compliance (e.g., obesity) decreases FRC.
+-   The **volume of air in the lungs at the end of a normal, relaxed exhalation**.
+-   At FRC, the **inward recoil of the lungs** is **balanced by the outward recoil of the relaxed
+    chest wall**.
+-   FRC is affected by:
+    -   **Lung compliance:** Increased compliance (e.g., emphysema) increases FRC.
+    -   **Chest wall compliance:** Decreased compliance (e.g., obesity) decreases FRC.
 
-#### Total Lung Capacity (TLC)
+#### Total Lung Capacity (TLC) {#total-lung-capacity-tlc}
 
-* The **maximum volume of air the lungs can hold**.
-* TLC is determined by:
-    * **The inward recoil of the respiratory system.**
-    * **The outward recoil of the maximally contracting inspiratory muscles.**
-* **Restrictive lung diseases** typically show a **decreased TLC**.
+-   The **maximum volume of air the lungs can hold**.
+-   TLC is determined by:
+    -   **The inward recoil of the respiratory system.**
+    -   **The outward recoil of the maximally contracting inspiratory muscles.**
+-   **Restrictive lung diseases** typically show a **decreased TLC**.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Restrictive Lung Diseases
+## Restrictive Lung Diseases {#restrictive-lung-diseases}
 
-* Characterized by **decreased total lung capacity** and often decreased FRC and RV.
-* Caused by factors that make the lungs or chest wall **stiff** (less compliant) or **weaken respiratory muscles**:
-    * **Stiff Lungs:**  Pulmonary fibrosis, sarcoidosis, pneumonia.
-    * **Stiff Chest Wall:**  Kyphoscoliosis, ankylosing spondylitis, obesity, fibrothorax.
-    * **Weak Muscles:** Neuromuscular diseases (e.g., amyotrophic lateral sclerosis, Guillain-Barré syndrome).
+-   Characterized by **decreased total lung capacity** and often decreased FRC and RV.
+-   Caused by factors that make the lungs or chest wall **stiff** (less compliant) or **weaken
+    respiratory muscles**:
+    -   **Stiff Lungs:** Pulmonary fibrosis, sarcoidosis, pneumonia.
+    -   **Stiff Chest Wall:** Kyphoscoliosis, ankylosing spondylitis, obesity, fibrothorax.
+    -   **Weak Muscles:** Neuromuscular diseases (e.g., amyotrophic lateral sclerosis,
+        Guillain-Barré syndrome).
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Lecture 4: Lung Mechanics II: Dynamics
 
-### Key Concepts in Dynamic Lung Mechanics
+### Key Concepts in Dynamic Lung Mechanics {#key-concepts-in-dynamic-lung-mechanics}
 
-#### Resistance and Airway Flow
+#### Resistance and Airway Flow {#resistance-and-airway-flow}
 
-* **Resistance** quantifies the **pressure difference needed to produce airflow** through the airways.
-* Resistance is analogous to friction in a pipe; it opposes the flow of air.
+-   **Resistance** quantifies the **pressure difference needed to produce airflow** through the
+    airways.
+-   Resistance is analogous to friction in a pipe; it opposes the flow of air.
 
-#### Large Airways and Resistance
+#### Large Airways and Resistance {#large-airways-and-resistance}
 
-* **Large airways** (trachea, bronchi) contribute the **most to airway resistance**.
-* This is somewhat counterintuitive because individual small airways have higher resistance, but the **total cross-sectional area of the small airways is enormous**, making their collective resistance low.
+-   **Large airways** (trachea, bronchi) contribute the **most to airway resistance**.
+-   This is somewhat counterintuitive because individual small airways have higher resistance, but
+    the **total cross-sectional area of the small airways is enormous**, making their collective
+    resistance low.
 
-#### Factors Affecting Resistance
+#### Factors Affecting Resistance {#factors-affecting-resistance}
 
-* **Lung Volume:** Resistance **increases at small lung volumes** because the airways are narrower.
-* **Bronchoconstriction:** Narrowing of the airways due to smooth muscle contraction, as in asthma, **increases resistance**.
+-   **Lung Volume:** Resistance **increases at small lung volumes** because the airways are
+    narrower.
+-   **Bronchoconstriction:** Narrowing of the airways due to smooth muscle contraction, as in
+    asthma, **increases resistance**.
 
-#### Flow Limitation and Obstructive Lung Diseases
+#### Flow Limitation and Obstructive Lung Diseases {#flow-limitation-and-obstructive-lung-diseases}
 
-* **Flow Limitation:** A phenomenon where **increasing effort cannot increase airflow beyond a certain maximum value**.
-* **Obstructive Lung Diseases:** Characterized by **decreased maximal airflow**, often due to increased airway resistance. Examples include **asthma, chronic bronchitis, and emphysema**.
+-   **Flow Limitation:** A phenomenon where **increasing effort cannot increase airflow beyond a
+    certain maximum value**.
+-   **Obstructive Lung Diseases:** Characterized by **decreased maximal airflow**, often due to
+    increased airway resistance. Examples include **asthma, chronic bronchitis, and emphysema**.
 
----
+----------------------------------------------------------------------------------------------------
 
-### Determinants of Flow
+### Determinants of Flow {#determinants-of-flow}
 
-#### Resistance
+#### Resistance {#resistance}
 
-* **Resistance (R)** is the pressure difference (ΔP) required to generate a given airflow (V̇):
-    ```
-    R = ΔP / V̇
-    ```
-* **Units:** cm H<sub>2</sub>O/L/sec
+-   **Resistance (R)** is the pressure difference (ΔP) required to generate a given airflow (V̇):
+    `R = ΔP / V̇`
+-   **Units:** cm H<sub>2</sub>O/L/sec
 
-#### Tissue Resistance
+#### Tissue Resistance {#tissue-resistance}
 
-* The resistance to **distortion and movement of lung tissue** itself.
-* Usually a **minor factor** in overall airway resistance.
+-   The resistance to **distortion and movement of lung tissue** itself.
+-   Usually a **minor factor** in overall airway resistance.
 
-#### Airway Resistance
+#### Airway Resistance {#airway-resistance}
 
-* The **major factor** in determining resistance to airflow.
-* Primarily determined by the resistance in the **larger airways**.
+-   The **major factor** in determining resistance to airflow.
+-   Primarily determined by the resistance in the **larger airways**.
 
----
+----------------------------------------------------------------------------------------------------
 
-### Airflow Dynamics
+### Airflow Dynamics {#airflow-dynamics}
 
-#### Three Flow Patterns
+#### Three Flow Patterns {#three-flow-patterns}
 
 Airflow through the airways can exhibit three patterns, each with different characteristics:
 
-##### Laminar Flow
+##### Laminar Flow {#laminar-flow}
 
-* **Smooth, streamlined flow** with minimal friction between layers of air.
-* **Dominant in small airways** due to their small diameter and low flow velocity.
-* **Poiseuille's Law** governs laminar flow resistance.
+-   **Smooth, streamlined flow** with minimal friction between layers of air.
+-   **Dominant in small airways** due to their small diameter and low flow velocity.
+-   **Poiseuille's Law** governs laminar flow resistance.
 
-##### Turbulent Flow
+##### Turbulent Flow {#turbulent-flow}
 
-* **Chaotic, disorganized flow** with eddies and swirls, leading to increased friction.
-* **Common in larger airways** due to their larger diameter and higher flow velocity.
-* **More resistant** than laminar flow.
+-   **Chaotic, disorganized flow** with eddies and swirls, leading to increased friction.
+-   **Common in larger airways** due to their larger diameter and higher flow velocity.
+-   **More resistant** than laminar flow.
 
-##### Transitional Flow
+##### Transitional Flow {#transitional-flow}
 
-* A **combination of laminar and turbulent flow**.
-* Often occurs at **bifurcations (branching points)** or downstream of **irregularities in the airway walls**.
+-   A **combination of laminar and turbulent flow**.
+-   Often occurs at **bifurcations (branching points)** or downstream of **irregularities in the
+    airway walls**.
 
----
+----------------------------------------------------------------------------------------------------
 
-### Laminar Flow and Poiseuille's Law
+### Laminar Flow and Poiseuille's Law {#laminar-flow-and-poiseuilles-law}
 
 **Poiseuille's Law** describes the factors that determine resistance to laminar flow:
 
-#### Factors Affecting Laminar Flow Resistance
+#### Factors Affecting Laminar Flow Resistance {#factors-affecting-laminar-flow-resistance}
 
-##### Length
+##### Length {#length}
 
-* **Directly proportional to length:** Longer airways have higher resistance.
+-   **Directly proportional to length:** Longer airways have higher resistance.
 
-##### Viscosity
+##### Viscosity {#viscosity}
 
-* **Directly proportional to viscosity:** Thicker fluids (higher viscosity) have higher resistance.
+-   **Directly proportional to viscosity:** Thicker fluids (higher viscosity) have higher
+    resistance.
 
-##### Radius
+##### Radius {#radius}
 
-* **Inversely proportional to the fourth power of the radius:** Even small changes in airway radius have a **huge impact on resistance**. Narrowing an airway by half increases resistance 16-fold!
-* **Radius is the most important factor** influencing laminar flow resistance.
+-   **Inversely proportional to the fourth power of the radius:** Even small changes in airway
+    radius have a **huge impact on resistance**. Narrowing an airway by half increases resistance
+    16-fold!
+-   **Radius is the most important factor** influencing laminar flow resistance.
 
----
+----------------------------------------------------------------------------------------------------
 
 ### Turbulent Flow
 
-#### Characteristics of Turbulent Flow
+#### Characteristics of Turbulent Flow {#characteristics-of-turbulent-flow}
 
-* **Chaotic and disorganized**, with multiple swirls and eddies.
-* **Higher resistance than laminar flow** due to increased friction.
-* **Equations describing turbulent flow resistance are complex and non-linear.**
+-   **Chaotic and disorganized**, with multiple swirls and eddies.
+-   **Higher resistance than laminar flow** due to increased friction.
+-   **Equations describing turbulent flow resistance are complex and non-linear.**
 
-#### Factors Affecting Turbulent Flow Resistance
+#### Factors Affecting Turbulent Flow Resistance {#factors-affecting-turbulent-flow-resistance}
 
-##### Density
+##### Density {#density}
 
-* **Directly proportional to density:** Denser gases have higher resistance.
+-   **Directly proportional to density:** Denser gases have higher resistance.
 
 ##### Radius
 
-* **Important factor but not as dominant as in laminar flow.**
-* The relationship between radius and resistance is not as straightforward as in laminar flow.
+-   **Important factor but not as dominant as in laminar flow.**
+-   The relationship between radius and resistance is not as straightforward as in laminar flow.
 
----
+----------------------------------------------------------------------------------------------------
 
-### Airflow Resistance in the Lungs
+### Airflow Resistance in the Lungs {#airflow-resistance-in-the-lungs}
 
-#### Location of Resistance
+#### Location of Resistance {#location-of-resistance}
 
-* About **80% of total airway resistance** arises from the **larger airways** (trachea, bronchi, and larger bronchioles).
-* The **vast total cross-sectional area of the smaller airways** makes their combined resistance relatively low.
+-   About **80% of total airway resistance** arises from the **larger airways** (trachea, bronchi,
+    and larger bronchioles).
+-   The **vast total cross-sectional area of the smaller airways** makes their combined resistance
+    relatively low.
 
-#### Factors Affecting Airway Resistance
+#### Factors Affecting Airway Resistance {#factors-affecting-airway-resistance}
 
-##### Bronchoconstriction
+##### Bronchoconstriction {#bronchoconstriction}
 
-* **Narrowing of the airways** due to smooth muscle contraction, as in asthma.
-* **Increases resistance**, making breathing more difficult.
+-   **Narrowing of the airways** due to smooth muscle contraction, as in asthma.
+-   **Increases resistance**, making breathing more difficult.
 
-##### Lung Volume
+##### Lung Volume {#lung-volume}
 
-* **Resistance decreases with increasing lung volume** because the airways are pulled open by the expanding lung parenchyma (radial traction).
-* At **low lung volumes**, resistance is **higher** because the airways are narrower.
+-   **Resistance decreases with increasing lung volume** because the airways are pulled open by the
+    expanding lung parenchyma (radial traction).
+-   At **low lung volumes**, resistance is **higher** because the airways are narrower.
 
----
+----------------------------------------------------------------------------------------------------
 
-### Flow Limitation: Flow-Volume Curve
+### Flow Limitation: Flow-Volume Curve {#flow-limitation-flow-volume-curve}
 
-#### Effort Dependence and Independence
+#### Effort Dependence and Independence {#effort-dependence-and-independence}
 
-* **Flow-Volume Curve:** A graph that plots **expiratory flow** against **lung volume** during a forced exhalation from TLC to RV.
-* **Effort Dependence:** At high lung volumes, increasing expiratory effort **increases flow**.
-* **Effort Independence:** At lower lung volumes, flow reaches a **maximum** that cannot be exceeded, even with increased effort. This is **flow limitation**.
+-   **Flow-Volume Curve:** A graph that plots **expiratory flow** against **lung volume** during a
+    forced exhalation from TLC to RV.
+-   **Effort Dependence:** At high lung volumes, increasing expiratory effort **increases flow**.
+-   **Effort Independence:** At lower lung volumes, flow reaches a **maximum** that cannot be
+    exceeded, even with increased effort. This is **flow limitation**.
 
-#### Mechanism of Flow Limitation
+#### Mechanism of Flow Limitation {#mechanism-of-flow-limitation}
 
-* **Airways are collapsible** and **not rigid tubes**.
-* During forced exhalation, **pleural pressure (P<sub>pl</sub>)** increases significantly.
-* At lower lung volumes, the **transmural pressure** across the airways becomes **negative**, causing them to **narrow**.
-* **Dynamic Compression:** This narrowing **increases resistance**, eventually leading to a point where further increases in P<sub>pl</sub> (effort) cannot overcome the increased resistance, resulting in flow limitation.
+-   **Airways are collapsible** and **not rigid tubes**.
+-   During forced exhalation, **pleural pressure (P**<sub>pl</sub>) increases significantly.
+-   At lower lung volumes, the **transmural pressure** across the airways becomes **negative**,
+    causing them to **narrow**.
+-   **Dynamic Compression:** This narrowing **increases resistance**, eventually leading to a point
+    where further increases in P<sub>pl</sub> (effort) cannot overcome the increased resistance,
+    resulting in flow limitation.
 
-#### Factors Affecting Flow Limitation
+#### Factors Affecting Flow Limitation {#factors-affecting-flow-limitation}
 
-* **Lung Volume:**  Flow limitation occurs at **lower lung volumes** where airways are more prone to collapse.
-* **Elastic Recoil Pressure:** Lower elastic recoil (e.g., emphysema) leads to **earlier flow limitation**.
-* **Airway Collapsibility:**  Diseases that increase airway collapsibility (e.g., chronic bronchitis) contribute to **flow limitation**.
+-   **Lung Volume:** Flow limitation occurs at **lower lung volumes** where airways are more prone
+    to collapse.
+-   **Elastic Recoil Pressure:** Lower elastic recoil (e.g., emphysema) leads to **earlier flow
+    limitation**.
+-   **Airway Collapsibility:** Diseases that increase airway collapsibility (e.g., chronic
+    bronchitis) contribute to **flow limitation**.
 
----
+----------------------------------------------------------------------------------------------------
 
-### Abnormal Flow Limitation
+### Abnormal Flow Limitation {#abnormal-flow-limitation}
 
-#### Causes of Decreased Maximal Flow
+#### Causes of Decreased Maximal Flow {#causes-of-decreased-maximal-flow}
 
-* **Narrowing of airways:** Bronchoconstriction, inflammation, mucus plugging, tumors.
-* **Increased airway collapsibility:**  Loss of elastic recoil (emphysema), weakening of airway walls.
-* **Decreased elastic recoil pressure:** Emphysema, loss of lung tissue.
+-   **Narrowing of airways:** Bronchoconstriction, inflammation, mucus plugging, tumors.
+-   **Increased airway collapsibility:** Loss of elastic recoil (emphysema), weakening of airway
+    walls.
+-   **Decreased elastic recoil pressure:** Emphysema, loss of lung tissue.
 
-#### Obstructive Lung Diseases
+#### Obstructive Lung Diseases {#obstructive-lung-diseases}
 
-* Characterized by **decreased maximal airflow** on flow-volume curves due to the factors listed above.
-* Common examples:
-    * **Asthma:** Bronchoconstriction and airway inflammation.
-    * **Chronic Bronchitis:**  Mucus hypersecretion and airway inflammation.
-    * **Emphysema:** Destruction of alveolar walls, leading to loss of elastic recoil and airway support.
+-   Characterized by **decreased maximal airflow** on flow-volume curves due to the factors listed
+    above.
+-   Common examples:
+    -   **Asthma:** Bronchoconstriction and airway inflammation.
+    -   **Chronic Bronchitis:** Mucus hypersecretion and airway inflammation.
+    -   **Emphysema:** Destruction of alveolar walls, leading to loss of elastic recoil and airway
+        support.
 
----
+----------------------------------------------------------------------------------------------------
 
-### Key Takeaways
+### Key Takeaways {#key-takeaways}
 
-* **Static lung mechanics** deals with the pressure-volume relationships that determine lung volumes.
-* **Compliance** reflects the ease of lung expansion, while **elastance** represents stiffness.
-* **Surfactant** reduces surface tension and is crucial for alveolar stability.
-* **Dynamic lung mechanics** focuses on airflow and resistance.
-* **Airway resistance** is mainly determined by the larger airways.
-* **Flow limitation** is a critical phenomenon in obstructive lung diseases, characterized by decreased maximal airflow.
+-   **Static lung mechanics** deals with the pressure-volume relationships that determine lung
+    volumes.
+-   **Compliance** reflects the ease of lung expansion, while **elastance** represents stiffness.
+-   **Surfactant** reduces surface tension and is crucial for alveolar stability.
+-   **Dynamic lung mechanics** focuses on airflow and resistance.
+-   **Airway resistance** is mainly determined by the larger airways.
+-   **Flow limitation** is a critical phenomenon in obstructive lung diseases, characterized by
+    decreased maximal airflow.
 
----
+----------------------------------------------------------------------------------------------------
 
 ### Glossary
 
-* **Alveoli:** Tiny air sacs in the lungs where gas exchange occurs.
-* **Bronchoconstriction:**  Narrowing of the airways due to smooth muscle contraction.
-* **Compliance:**  A measure of the ease with which a structure can be stretched (ΔV/ΔP).
-* **Dynamic Compression:** Narrowing of the airways during forced exhalation due to increased pleural pressure.
-* **Elastance:** The reciprocal of compliance, representing the stiffness of a structure (ΔP/ΔV).
-* **Elastic Recoil:** The tendency of the lungs to collapse inward due to the elastic properties of lung tissue and surface tension.
-* **Emphysema:** A type of chronic obstructive pulmonary disease (COPD) characterized by destruction of alveolar walls and loss of elastic recoil.
-* **Flow Limitation:**  A condition where increasing expiratory effort cannot increase airflow beyond a maximum value.
-* **Flow-Volume Curve:** A graph plotting expiratory flow against lung volume during a forced exhalation.
-* **Functional Residual Capacity (FRC):** The volume of air in the lungs at the end of a normal, relaxed exhalation.
-* **Hysteresis:**  The difference in pressure-volume relationships between inspiration and expiration.
-* **Isovolume Pressure-Flow Curve:** A graph plotting airflow against pleural pressure at a constant lung volume.
-* **Laminar Flow:**  Smooth, streamlined airflow with minimal friction between layers of air.
-* **LaPlace's Law:** The pressure inside a sphere (like an alveolus) is proportional to the wall tension divided by the radius.
-* **Lung Parenchyma:** The functional tissue of the lungs, including the alveoli, alveolar ducts, and respiratory bronchioles.
-* **Obstructive Lung Diseases:**  Diseases characterized by airflow obstruction, often due to increased airway resistance.
-* **Pleural Pressure (P<sub>pl</sub>):** The pressure within the pleural space.
-* **Poiseuille's Law:** Describes the factors that determine resistance to laminar flow.
-* **Pulmonary Fibrosis:**  A disease characterized by scarring (fibrosis) of lung tissue, leading to decreased compliance.
-* **Radial Traction:**  The outward pull on the airways exerted by the expanding lung parenchyma.
-* **Residual Volume (RV):** The amount of air remaining in the lungs after a maximal exhalation.
-* **Resistance:** The pressure difference required to generate airflow (ΔP/V̇).
-* **Respiratory System Compliance:** The combined compliance of the lung and chest wall.
-* **Reynolds Number:**  A dimensionless number that predicts whether airflow will be laminar or turbulent.
-* **Restrictive Lung Diseases:** Diseases characterized by decreased lung volumes, often due to decreased compliance.
-* **Surfactant:** A substance that reduces surface tension in the alveoli, produced by Type II pneumocytes.
-* **Surface Tension:** A force at the air-liquid interface within the alveoli that contributes to lung recoil.
-* **Total Lung Capacity (TLC):**  The maximum amount of air the lungs can hold.
-* **Transdiaphragmatic Pressure (P<sub>di</sub>):** The pressure difference across the diaphragm.
-* **Transitional Flow:**  A combination of laminar and turbulent flow.
-* **Transmural Pressure:** The pressure difference across the wall of a structure (Pressure Inside - Pressure Outside).
-* **Transpulmonary Pressure (P<sub>L</sub>):** The pressure difference across the lung (P<sub>alv</sub> - P<sub>pl</sub>), also known as elastic recoil pressure.
-* **Turbulent Flow:** Chaotic, disorganized airflow with eddies and swirls, leading to higher resistance than laminar flow. 
+-   **Alveoli:** Tiny air sacs in the lungs where gas exchange occurs.
+-   **Bronchoconstriction:** Narrowing of the airways due to smooth muscle contraction.
+-   **Compliance:** A measure of the ease with which a structure can be stretched (ΔV/ΔP).
+-   **Dynamic Compression:** Narrowing of the airways during forced exhalation due to increased
+    pleural pressure.
+-   **Elastance:** The reciprocal of compliance, representing the stiffness of a structure (ΔP/ΔV).
+-   **Elastic Recoil:** The tendency of the lungs to collapse inward due to the elastic properties
+    of lung tissue and surface tension.
+-   **Emphysema:** A type of chronic obstructive pulmonary disease (COPD) characterized by
+    destruction of alveolar walls and loss of elastic recoil.
+-   **Flow Limitation:** A condition where increasing expiratory effort cannot increase airflow
+    beyond a maximum value.
+-   **Flow-Volume Curve:** A graph plotting expiratory flow against lung volume during a forced
+    exhalation.
+-   **Functional Residual Capacity (FRC):** The volume of air in the lungs at the end of a normal,
+    relaxed exhalation.
+-   **Hysteresis:** The difference in pressure-volume relationships between inspiration and
+    expiration.
+-   **Isovolume Pressure-Flow Curve:** A graph plotting airflow against pleural pressure at a
+    constant lung volume.
+-   **Laminar Flow:** Smooth, streamlined airflow with minimal friction between layers of air.
+-   **LaPlace's Law:** The pressure inside a sphere (like an alveolus) is proportional to the wall
+    tension divided by the radius.
+-   **Lung Parenchyma:** The functional tissue of the lungs, including the alveoli, alveolar ducts,
+    and respiratory bronchioles.
+-   **Obstructive Lung Diseases:** Diseases characterized by airflow obstruction, often due to
+    increased airway resistance.
+-   **Pleural Pressure (P**<sub>pl</sub>): The pressure within the pleural space.
+-   **Poiseuille's Law:** Describes the factors that determine resistance to laminar flow.
+-   **Pulmonary Fibrosis:** A disease characterized by scarring (fibrosis) of lung tissue, leading
+    to decreased compliance.
+-   **Radial Traction:** The outward pull on the airways exerted by the expanding lung parenchyma.
+-   **Residual Volume (RV):** The amount of air remaining in the lungs after a maximal exhalation.
+-   **Resistance:** The pressure difference required to generate airflow (ΔP/V̇).
+-   **Respiratory System Compliance:** The combined compliance of the lung and chest wall.
+-   **Reynolds Number:** A dimensionless number that predicts whether airflow will be laminar or
+    turbulent.
+-   **Restrictive Lung Diseases:** Diseases characterized by decreased lung volumes, often due to
+    decreased compliance.
+-   **Surfactant:** A substance that reduces surface tension in the alveoli, produced by Type II
+    pneumocytes.
+-   **Surface Tension:** A force at the air-liquid interface within the alveoli that contributes to
+    lung recoil.
+-   **Total Lung Capacity (TLC):** The maximum amount of air the lungs can hold.
+-   **Transdiaphragmatic Pressure (P**<sub>di</sub>): The pressure difference across the diaphragm.
+-   **Transitional Flow:** A combination of laminar and turbulent flow.
+-   **Transmural Pressure:** The pressure difference across the wall of a structure (Pressure
+    Inside - Pressure Outside).
+-   **Transpulmonary Pressure (P**<sub>L</sub>): The pressure difference across the lung
+    (P<sub>alv</sub> - P<sub>pl</sub>), also known as elastic recoil pressure.
+-   **Turbulent Flow:** Chaotic, disorganized airflow with eddies and swirls, leading to higher
+    resistance than laminar flow.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Lecture 5: Ventilation
 
 ### Overview
 
-This lecture delves into the physiological intricacies of ventilation, building upon the foundational concepts of lung volumes, capacities, and dead space from previous lectures. It starts by dissecting the composition of alveolar gas, emphasizing how Dalton's Law governs the partial pressures of its components, and how humidification, oxygen uptake, and carbon dioxide elimination alter its composition. The lecture then introduces the crucial alveolar air equation, a tool for calculating the partial pressure of oxygen in alveolar gas, which directly influences arterial oxygenation. It demonstrates how this equation can be applied to understand the physiological challenges of breathing at high altitude and how hyperventilation can compensate for reduced oxygen availability. The lecture then shifts to the regional distribution of ventilation within the lungs, highlighting the role of gravity, pleural pressure gradients, and regional lung compliance in determining airflow distribution.  It establishes that lung bases receive more ventilation than apices due to their increased compliance at lower lung volumes.
+This lecture delves into the physiological intricacies of ventilation, building upon the
+foundational concepts of lung volumes, capacities, and dead space from previous lectures. It starts
+by dissecting the composition of alveolar gas, emphasizing how Dalton's Law governs the partial
+pressures of its components, and how humidification, oxygen uptake, and carbon dioxide elimination
+alter its composition. The lecture then introduces the crucial alveolar air equation, a tool for
+calculating the partial pressure of oxygen in alveolar gas, which directly influences arterial
+oxygenation. It demonstrates how this equation can be applied to understand the physiological
+challenges of breathing at high altitude and how hyperventilation can compensate for reduced oxygen
+availability. The lecture then shifts to the regional distribution of ventilation within the lungs,
+highlighting the role of gravity, pleural pressure gradients, and regional lung compliance in
+determining airflow distribution. It establishes that lung bases receive more ventilation than
+apices due to their increased compliance at lower lung volumes.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Table of Contents
 
-* [Lung Volumes and Capacities](#lung-volumes-and-capacities)
-* [Definitions](#definitions)
-    * [Minute Ventilation](#minute-ventilation)
-* [Alveolar and Dead Space Ventilation](#alveolar-and-dead-space-ventilation)
-    * [Alveolar Ventilation](#alveolar-ventilation)
-    * [Dead Space Ventilation](#dead-space-ventilation)
-* [Anatomic Dead Space](#anatomic-dead-space)
-* [Physiologic Dead Space](#physiologic-dead-space)
-* [Alveolar Ventilation and CO2](#alveolar-ventilation-and-co2)
-* [Dalton's Law](#daltons-law)
-* [Alveolar Air Equation](#alveolar-air-equation)
-    * [Example: Sea Level](#example-sea-level)
-    * [Example: 8,000 Feet Altitude](#example-8000-feet-altitude)
-    * [Effects of Hyperventilation](#effects-of-hyperventilation)
-* [Regional Distribution of Ventilation](#regional-distribution-of-ventilation)
-    * [Gravity and Pleural Pressure](#gravity-and-pleural-pressure)
-    * [Regional Compliance and Ventilation](#regional-compliance-and-ventilation)
-* [Key Takeaways](#key-takeaways)
-* [Glossary](#glossary)
+-   [Lung Volumes and Capacities](#lung-volumes-and-capacities)
+-   [Definitions](#definitions)
+    -   [Minute Ventilation](#minute-ventilation)
+-   [Alveolar and Dead Space Ventilation](#alveolar-and-dead-space-ventilation)
+    -   [Alveolar Ventilation](#alveolar-ventilation)
+    -   [Dead Space Ventilation](#dead-space-ventilation)
+-   [Anatomic Dead Space](#anatomic-dead-space)
+-   [Physiologic Dead Space](#physiologic-dead-space)
+-   [Alveolar Ventilation and CO2](#alveolar-ventilation-and-co2)
+-   [Dalton's Law](#daltons-law)
+-   [Alveolar Air Equation](#alveolar-air-equation)
+    -   [Example: Sea Level](#example-sea-level)
+    -   [Example: 8,000 Feet Altitude](#example-8000-feet-altitude)
+    -   [Effects of Hyperventilation](#effects-of-hyperventilation)
+-   [Regional Distribution of Ventilation](#regional-distribution-of-ventilation)
+    -   [Gravity and Pleural Pressure](#gravity-and-pleural-pressure)
+    -   [Regional Compliance and Ventilation](#regional-compliance-and-ventilation)
+-   [Key Takeaways](#key-takeaways)
+-   [Glossary](#glossary)
 
----
+----------------------------------------------------------------------------------------------------
 
-## Lung Volumes and Capacities
+## Lung Volumes and Capacities {#lung-volumes-and-capacities}
 
-* The lung has four named volumes and four capacities:
-    * **Tidal Volume (V<sub>T</sub>):** The volume of a single breath.
-    * **Residual Volume (RV):** The volume of air remaining in the lungs after a maximal exhalation.
-    * **Inspiratory Reserve Volume (IRV):** The volume of air that can be inhaled above a normal tidal volume.
-    * **Expiratory Reserve Volume (ERV):** The volume of air that can be exhaled below a normal tidal volume.
-    * **Total Lung Capacity (TLC):** The maximum amount of air the lungs can hold (TLC = RV + V<sub>T</sub> + IRV + ERV).
-    * **Vital Capacity (VC):** The maximum volume of air that can be exhaled after a maximal inhalation (VC = V<sub>T</sub> + IRV + ERV).
-    * **Inspiratory Capacity (IC):** The maximum volume of air that can be inhaled from the end of a normal exhalation (IC = V<sub>T</sub> + IRV).
-    * **Functional Residual Capacity (FRC):** The volume of air in the lungs at the end of a normal, relaxed exhalation (FRC = ERV + RV).
+-   The lung has four named volumes and four capacities:
+    -   **Tidal Volume (V**<sub>T</sub>): The volume of a single breath.
+    -   **Residual Volume (RV):** The volume of air remaining in the lungs after a maximal
+        exhalation.
+    -   **Inspiratory Reserve Volume (IRV):** The volume of air that can be inhaled above a normal
+        tidal volume.
+    -   **Expiratory Reserve Volume (ERV):** The volume of air that can be exhaled below a normal
+        tidal volume.
+    -   **Total Lung Capacity (TLC):** The maximum amount of air the lungs can hold (TLC = RV +
+        V<sub>T</sub> + IRV + ERV).
+    -   **Vital Capacity (VC):** The maximum volume of air that can be exhaled after a maximal
+        inhalation (VC = V<sub>T</sub> + IRV + ERV).
+    -   **Inspiratory Capacity (IC):** The maximum volume of air that can be inhaled from the end of
+        a normal exhalation (IC = V<sub>T</sub> + IRV).
+    -   **Functional Residual Capacity (FRC):** The volume of air in the lungs at the end of a
+        normal, relaxed exhalation (FRC = ERV + RV).
 
----
+----------------------------------------------------------------------------------------------------
 
-## Definitions
+## Definitions {#definitions}
 
 ### Minute Ventilation (V̇<sub>T</sub>)
 
-* **V̇<sub>T</sub>** is the **total volume of air breathed per minute**.
-* Calculated as: **V̇<sub>T</sub> = V<sub>T</sub> x Respiratory Rate**.
-* Also known as **total ventilation** or **exhaled ventilation (V̇<sub>E</sub>)**, as it is typically measured from exhaled breaths.
+-   **V̇**<sub>T</sub> is the **total volume of air breathed per minute**.
+-   Calculated as: **V̇**<sub>T</sub> = V<sub>T</sub> x Respiratory Rate.
+-   Also known as **total ventilation** or **exhaled ventilation (V̇**<sub>E</sub>), as it is
+    typically measured from exhaled breaths.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Alveolar and Dead Space Ventilation
+## Alveolar and Dead Space Ventilation {#alveolar-and-dead-space-ventilation}
 
 ### Alveolar Ventilation (V̇<sub>A</sub>)
 
-* **V̇<sub>A</sub>** is the portion of minute ventilation that **reaches the gas exchange units (alveoli)**.
-* This is the **effective ventilation** for removing carbon dioxide and delivering oxygen to the blood.
+-   **V̇**<sub>A</sub> is the portion of minute ventilation that **reaches the gas exchange units
+    (alveoli)**.
+-   This is the **effective ventilation** for removing carbon dioxide and delivering oxygen to the
+    blood.
 
 ### Dead Space Ventilation (V̇<sub>D</sub>)
 
-* **V̇<sub>D</sub>** is the portion of minute ventilation that **does not participate in gas exchange**.
-* This includes ventilation of the **conducting airways (anatomic dead space)** and any **alveoli that are ventilated but not perfused (alveolar dead space).**
+-   **V̇**<sub>D</sub> is the portion of minute ventilation that **does not participate in gas
+    exchange**.
+-   This includes ventilation of the **conducting airways (anatomic dead space)** and any **alveoli
+    that are ventilated but not perfused (alveolar dead space).**
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Anatomic Dead Space
 
-* The **volume of air in the conducting airways** (nose, pharynx, trachea, bronchi, bronchioles) where **gas exchange does not occur**.
-* Represents a **fixed volume** that is **"wasted"** with each breath.
+-   The **volume of air in the conducting airways** (nose, pharynx, trachea, bronchi, bronchioles)
+    where **gas exchange does not occur**.
+-   Represents a **fixed volume** that is **"wasted"** with each breath.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Physiologic Dead Space
+## Physiologic Dead Space {#physiologic-dead-space}
 
-* The **sum of the anatomic dead space and the alveolar dead space**.
-* **Alveolar dead space** arises from **alveoli that receive ventilation but little or no blood flow**, resulting in wasted ventilation.
-* **Physiologic dead space** is **normally slightly larger than the anatomic dead space**, due to a small amount of alveolar dead space in the lung apices.
-* Can be **significantly increased in lung diseases** that cause **ventilation-perfusion mismatching**, such as pulmonary embolism or emphysema.
+-   The **sum of the anatomic dead space and the alveolar dead space**.
+-   **Alveolar dead space** arises from **alveoli that receive ventilation but little or no blood
+    flow**, resulting in wasted ventilation.
+-   **Physiologic dead space** is **normally slightly larger than the anatomic dead space**, due to
+    a small amount of alveolar dead space in the lung apices.
+-   Can be **significantly increased in lung diseases** that cause **ventilation-perfusion
+    mismatching**, such as pulmonary embolism or emphysema.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Alveolar Ventilation and CO2
+## Alveolar Ventilation and CO2 {#alveolar-ventilation-and-co2}
 
-* **Arterial partial pressure of carbon dioxide (PaCO<sub>2</sub>)** is determined by the balance between **CO<sub>2</sub> production by the tissues (V̇CO<sub>2</sub>)** and its **removal by alveolar ventilation (V̇<sub>A</sub>)**.
-* The relationship between PaCO<sub>2</sub> and V̇<sub>A</sub> is **inverse:**
-    * **Increased V̇<sub>A</sub> (hyperventilation):** Lowers PaCO<sub>2</sub> (hypocapnia).
-    * **Decreased V̇<sub>A</sub> (hypoventilation):** Raises PaCO<sub>2</sub> (hypercapnia).
-* This relationship can be expressed mathematically: **PaCO<sub>2</sub> = K (V̇CO<sub>2</sub> / V̇<sub>A</sub>)**, where K is a constant.
+-   **Arterial partial pressure of carbon dioxide (PaCO**<sub>2</sub>) is determined by the balance
+    between **CO**<sub>2</sub> production by the tissues (V̇CO<sub>2</sub>) and its **removal by
+    alveolar ventilation (V̇**<sub>A</sub>).
+-   The relationship between PaCO<sub>2</sub> and V̇<sub>A</sub> is **inverse:**
+    -   **Increased V̇**<sub>A</sub> (hyperventilation): Lowers PaCO<sub>2</sub> (hypocapnia).
+    -   **Decreased V̇**<sub>A</sub> (hypoventilation): Raises PaCO<sub>2</sub> (hypercapnia).
+-   This relationship can be expressed mathematically: **PaCO**<sub>2</sub> = K (V̇CO<sub>2</sub> /
+    V̇<sub>A</sub>), where K is a constant.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Dalton's Law
+## Dalton's Law {#daltons-law}
 
-* **The total pressure of a gas mixture is equal to the sum of the partial pressures of its individual components**.
-* **Partial pressure** is the pressure that each gas would exert if it alone occupied the entire volume of the mixture.
-* For example, in **room air:**
-    * **Oxygen (O<sub>2</sub>):**  21% of total pressure.
-    * **Nitrogen (N<sub>2</sub>):** 79% of total pressure.
-    * **Carbon Dioxide (CO<sub>2</sub>):**  Trace amounts (approximately 0.04%).
-* The **partial pressures of gases in the alveoli** are different from those in room air due to:
-    * **Humidification:** Inspired air is fully saturated with water vapor in the airways.
-    * **Oxygen Removal:** Oxygen diffuses from the alveoli into the blood.
-    * **Carbon Dioxide Addition:** Carbon dioxide diffuses from the blood into the alveoli.
+-   **The total pressure of a gas mixture is equal to the sum of the partial pressures of its
+    individual components**.
+-   **Partial pressure** is the pressure that each gas would exert if it alone occupied the entire
+    volume of the mixture.
+-   For example, in **room air:**
+    -   **Oxygen (O**<sub>2</sub>): 21% of total pressure.
+    -   **Nitrogen (N**<sub>2</sub>): 79% of total pressure.
+    -   **Carbon Dioxide (CO**<sub>2</sub>): Trace amounts (approximately 0.04%).
+-   The **partial pressures of gases in the alveoli** are different from those in room air due to:
+    -   **Humidification:** Inspired air is fully saturated with water vapor in the airways.
+    -   **Oxygen Removal:** Oxygen diffuses from the alveoli into the blood.
+    -   **Carbon Dioxide Addition:** Carbon dioxide diffuses from the blood into the alveoli.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Alveolar Air Equation
+## Alveolar Air Equation {#alveolar-air-equation}
 
-* Used to **calculate the partial pressure of oxygen in alveolar gas (PAO<sub>2</sub>)**.
-* The equation takes into account the following factors:
-    * **Inspired Oxygen Concentration (FiO<sub>2</sub>):** The fraction of oxygen in inspired air.
-    * **Barometric Pressure (P<sub>B</sub>):** The total atmospheric pressure.
-    * **Water Vapor Pressure (P<sub>H2O</sub>):** The pressure exerted by water vapor in the alveoli (typically 47 mmHg at body temperature).
-    * **Arterial Partial Pressure of Carbon Dioxide (PaCO<sub>2</sub>):** Reflects the amount of CO<sub>2</sub> added to alveolar gas.
-    * **Respiratory Quotient (RQ):** The ratio of CO<sub>2</sub> produced to O<sub>2</sub> consumed, typically around 0.8 for a mixed diet.
+-   Used to **calculate the partial pressure of oxygen in alveolar gas (PAO**<sub>2</sub>).
+-   The equation takes into account the following factors:
+    -   **Inspired Oxygen Concentration (FiO**<sub>2</sub>): The fraction of oxygen in inspired air.
+    -   **Barometric Pressure (P**<sub>B</sub>): The total atmospheric pressure.
+    -   **Water Vapor Pressure (P**<sub>H2O</sub>): The pressure exerted by water vapor in the
+        alveoli (typically 47 mmHg at body temperature).
+    -   **Arterial Partial Pressure of Carbon Dioxide (PaCO**<sub>2</sub>): Reflects the amount of
+        CO<sub>2</sub> added to alveolar gas.
+    -   **Respiratory Quotient (RQ):** The ratio of CO<sub>2</sub> produced to O<sub>2</sub>
+        consumed, typically around 0.8 for a mixed diet.
 
-### Example: Sea Level
+### Example: Sea Level {#example-sea-level}
 
-* Assuming:
-    * FiO<sub>2</sub> = 0.21 (room air)
-    * P<sub>B</sub> = 760 mmHg
-    * PaCO<sub>2</sub> = 40 mmHg
-    * RQ = 0.8
-* The alveolar air equation becomes: PAO<sub>2</sub> = [0.21 x (760 - 47)] - (40 / 0.8) = **100 mmHg**.
+-   Assuming:
+    -   FiO<sub>2</sub> = 0.21 (room air)
+    -   P<sub>B</sub> = 760 mmHg
+    -   PaCO<sub>2</sub> = 40 mmHg
+    -   RQ = 0.8
+-   The alveolar air equation becomes: PAO<sub>2</sub> = [0.21 x (760 - 47)] - (40 / 0.8) = **100
+    mmHg**.
 
-### Example: 8,000 Feet Altitude
+### Example: 8,000 Feet Altitude {#example-8000-feet-altitude}
 
-* At higher altitude, **barometric pressure is lower**.
-* Assuming:
-    * FiO<sub>2</sub> = 0.21
-    * P<sub>B</sub> = 523 mmHg (at 8,000 feet)
-    * PaCO<sub>2</sub> = 40 mmHg
-    * RQ = 0.8
-* The alveolar air equation becomes: PAO<sub>2</sub> = [0.21 x (523 - 47)] - (40 / 0.8) = **59 mmHg**.
-* This demonstrates why **breathing at high altitude can lead to hypoxemia** (low arterial oxygenation).
+-   At higher altitude, **barometric pressure is lower**.
+-   Assuming:
+    -   FiO<sub>2</sub> = 0.21
+    -   P<sub>B</sub> = 523 mmHg (at 8,000 feet)
+    -   PaCO<sub>2</sub> = 40 mmHg
+    -   RQ = 0.8
+-   The alveolar air equation becomes: PAO<sub>2</sub> = [0.21 x (523 - 47)] - (40 / 0.8) = **59
+    mmHg**.
+-   This demonstrates why **breathing at high altitude can lead to hypoxemia** (low arterial
+    oxygenation).
 
-### Effects of Hyperventilation
+### Effects of Hyperventilation {#effects-of-hyperventilation}
 
-* **Hyperventilation (increased alveolar ventilation)** can **compensate for reduced PAO<sub>2</sub> at high altitude**.
-* By **lowering PaCO<sub>2</sub>**, hyperventilation **increases the PAO<sub>2</sub>**.
-* In the 8,000 feet example, if hyperventilation lowered PaCO<sub>2</sub> to 25 mmHg, PAO<sub>2</sub> would increase to **69 mmHg**.
+-   **Hyperventilation (increased alveolar ventilation)** can **compensate for reduced
+    PAO**<sub>2</sub> at high altitude.
+-   By **lowering PaCO**<sub>2</sub>, hyperventilation **increases the PAO**<sub>2</sub>.
+-   In the 8,000 feet example, if hyperventilation lowered PaCO<sub>2</sub> to 25 mmHg,
+    PAO<sub>2</sub> would increase to **69 mmHg**.
 
----
+----------------------------------------------------------------------------------------------------
 
-## Regional Distribution of Ventilation
+## Regional Distribution of Ventilation {#regional-distribution-of-ventilation}
 
-### Gravity and Pleural Pressure
+### Gravity and Pleural Pressure {#gravity-and-pleural-pressure}
 
-* **Gravity** influences the **distribution of pleural pressure** within the chest cavity.
-* In an upright individual:
-    * **Pleural pressure is more negative at the apex of the lungs** (due to the weight of the lung pulling down).
-    * **Pleural pressure becomes progressively less negative towards the base of the lungs**.
-* This **gradient in pleural pressure** creates a **corresponding gradient in transpulmonary pressure**.
+-   **Gravity** influences the **distribution of pleural pressure** within the chest cavity.
+-   In an upright individual:
+    -   **Pleural pressure is more negative at the apex of the lungs** (due to the weight of the
+        lung pulling down).
+    -   **Pleural pressure becomes progressively less negative towards the base of the lungs**.
+-   This **gradient in pleural pressure** creates a **corresponding gradient in transpulmonary
+    pressure**.
 
-### Regional Compliance and Ventilation
+### Regional Compliance and Ventilation {#regional-compliance-and-ventilation}
 
-* **Lung compliance is not uniform throughout the lungs**.
-* **At FRC**, alveoli at the **lung base** are **less distended** and are on a **more compliant portion of their pressure-volume curve**.
-* **Alveoli at the apex** are **more distended** and are on a **less compliant portion of their pressure-volume curve**.
-* Because of this difference in compliance:
-    * During inspiration, when transpulmonary pressure increases uniformly, **alveoli at the base expand more than those at the apex**.
-    * This means **the base of the lungs receives more ventilation than the apex**.
+-   **Lung compliance is not uniform throughout the lungs**.
+-   **At FRC**, alveoli at the **lung base** are **less distended** and are on a **more compliant
+    portion of their pressure-volume curve**.
+-   **Alveoli at the apex** are **more distended** and are on a **less compliant portion of their
+    pressure-volume curve**.
+-   Because of this difference in compliance:
+    -   During inspiration, when transpulmonary pressure increases uniformly, **alveoli at the base
+        expand more than those at the apex**.
+    -   This means **the base of the lungs receives more ventilation than the apex**.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Key Takeaways
 
-* Ventilation is the process of moving air into and out of the lungs, encompassing both alveolar and dead space components.
-* Alveolar ventilation is crucial for gas exchange and maintaining arterial PCO<sub>2</sub>.
-* The alveolar air equation is a tool for calculating PAO<sub>2</sub>, which influences arterial oxygenation.
-* Dalton's Law governs the partial pressures of gases in a mixture, and these pressures are altered in the alveoli due to humidification, oxygen uptake, and CO<sub>2</sub> elimination.
-* Ventilation is not uniformly distributed in the lungs, with dependent lung regions (bases in an upright person) receiving more ventilation due to their greater compliance.
+-   Ventilation is the process of moving air into and out of the lungs, encompassing both alveolar
+    and dead space components.
+-   Alveolar ventilation is crucial for gas exchange and maintaining arterial PCO<sub>2</sub>.
+-   The alveolar air equation is a tool for calculating PAO<sub>2</sub>, which influences arterial
+    oxygenation.
+-   Dalton's Law governs the partial pressures of gases in a mixture, and these pressures are
+    altered in the alveoli due to humidification, oxygen uptake, and CO<sub>2</sub> elimination.
+-   Ventilation is not uniformly distributed in the lungs, with dependent lung regions (bases in an
+    upright person) receiving more ventilation due to their greater compliance.
 
----
+----------------------------------------------------------------------------------------------------
 
 ## Glossary
 
-* **Alveolar Ventilation (V̇<sub>A</sub>):** The portion of minute ventilation that reaches the gas exchange units (alveoli).
-* **Alveolar Air Equation:**  An equation used to calculate the partial pressure of oxygen in alveolar gas (PAO<sub>2</sub>).
-* **Anatomic Dead Space:** The volume of air in the conducting airways where gas exchange does not occur.
-* **Barometric Pressure (P<sub>B</sub>):** The total atmospheric pressure.
-* **Compliance:** A measure of the ease with which a structure can be stretched (ΔV/ΔP).
-* **Dead Space Ventilation (V̇<sub>D</sub>):** The portion of minute ventilation that does not participate in gas exchange.
-* **Dalton's Law:** The total pressure of a gas mixture is equal to the sum of the partial pressures of its individual components.
-* **Expiratory Reserve Volume (ERV):** The volume of air that can be exhaled below a normal tidal volume.
-* **Functional Residual Capacity (FRC):** The volume of air in the lungs at the end of a normal, relaxed exhalation.
-* **Fractional Concentration of Inspired Oxygen (FiO<sub>2</sub>):** The fraction of oxygen in inspired air.
-* **Hypercapnia:** Elevated arterial partial pressure of carbon dioxide (PaCO<sub>2</sub>).
-* **Hyperventilation:** Increased alveolar ventilation, leading to hypocapnia.
-* **Hypocapnia:**  Reduced arterial partial pressure of carbon dioxide (PaCO<sub>2</sub>).
-* **Hypoxemia:** Low arterial partial pressure of oxygen (PaO<sub>2</sub>).
-* **Inspiratory Capacity (IC):** The maximum volume of air that can be inhaled from the end of a normal exhalation.
-* **Inspiratory Reserve Volume (IRV):** The volume of air that can be inhaled above a normal tidal volume.
-* **Minute Ventilation (V̇<sub>T</sub>):** The total volume of air breathed per minute (also known as total ventilation or exhaled ventilation, V̇<sub>E</sub>).
-* **Partial Pressure:** The pressure that each gas in a mixture would exert if it alone occupied the entire volume.
-* **Physiologic Dead Space:** The sum of the anatomic dead space and the alveolar dead space.
-* **Pleural Pressure (P<sub>pl</sub>):** The pressure within the pleural space.
-* **Respiratory Quotient (RQ):** The ratio of CO<sub>2</sub> produced to O<sub>2</sub> consumed during metabolism.
-* **Residual Volume (RV):** The volume of air remaining in the lungs after a maximal exhalation.
-* **Tidal Volume (V<sub>T</sub>):** The volume of a single breath.
-* **Total Lung Capacity (TLC):** The maximum amount of air the lungs can hold.
-* **Transpulmonary Pressure (P<sub>L</sub>):**  The pressure difference across the lung (P<sub>alv</sub> - P<sub>pl</sub>), also known as elastic recoil pressure.
-* **Ventilation:** The process of moving air into and out of the lungs.
-* **Ventilation-Perfusion Mismatching:**  An imbalance between ventilation (airflow) and perfusion (blood flow) in the lungs, leading to inefficient gas exchange.
-* **Vital Capacity (VC):** The maximum volume of air that can be exhaled after a maximal inhalation.
+-   **Alveolar Ventilation (V̇**<sub>A</sub>): The portion of minute ventilation that reaches the gas
+    exchange units (alveoli).
+-   **Alveolar Air Equation:** An equation used to calculate the partial pressure of oxygen in
+    alveolar gas (PAO<sub>2</sub>).
+-   **Anatomic Dead Space:** The volume of air in the conducting airways where gas exchange does not
+    occur.
+-   **Barometric Pressure (P**<sub>B</sub>): The total atmospheric pressure.
+-   **Compliance:** A measure of the ease with which a structure can be stretched (ΔV/ΔP).
+-   **Dead Space Ventilation (V̇**<sub>D</sub>): The portion of minute ventilation that does not
+    participate in gas exchange.
+-   **Dalton's Law:** The total pressure of a gas mixture is equal to the sum of the partial
+    pressures of its individual components.
+-   **Expiratory Reserve Volume (ERV):** The volume of air that can be exhaled below a normal tidal
+    volume.
+-   **Functional Residual Capacity (FRC):** The volume of air in the lungs at the end of a normal,
+    relaxed exhalation.
+-   **Fractional Concentration of Inspired Oxygen (FiO**<sub>2</sub>): The fraction of oxygen in
+    inspired air.
+-   **Hypercapnia:** Elevated arterial partial pressure of carbon dioxide (PaCO<sub>2</sub>).
+-   **Hyperventilation:** Increased alveolar ventilation, leading to hypocapnia.
+-   **Hypocapnia:** Reduced arterial partial pressure of carbon dioxide (PaCO<sub>2</sub>).
+-   **Hypoxemia:** Low arterial partial pressure of oxygen (PaO<sub>2</sub>).
+-   **Inspiratory Capacity (IC):** The maximum volume of air that can be inhaled from the end of a
+    normal exhalation.
+-   **Inspiratory Reserve Volume (IRV):** The volume of air that can be inhaled above a normal tidal
+    volume.
+-   **Minute Ventilation (V̇**<sub>T</sub>): The total volume of air breathed per minute (also known
+    as total ventilation or exhaled ventilation, V̇<sub>E</sub>).
+-   **Partial Pressure:** The pressure that each gas in a mixture would exert if it alone occupied
+    the entire volume.
+-   **Physiologic Dead Space:** The sum of the anatomic dead space and the alveolar dead space.
+-   **Pleural Pressure (P**<sub>pl</sub>): The pressure within the pleural space.
+-   **Respiratory Quotient (RQ):** The ratio of CO<sub>2</sub> produced to O<sub>2</sub> consumed
+    during metabolism.
+-   **Residual Volume (RV):** The volume of air remaining in the lungs after a maximal exhalation.
+-   **Tidal Volume (V**<sub>T</sub>): The volume of a single breath.
+-   **Total Lung Capacity (TLC):** The maximum amount of air the lungs can hold.
+-   **Transpulmonary Pressure (P**<sub>L</sub>): The pressure difference across the lung
+    (P<sub>alv</sub> - P<sub>pl</sub>), also known as elastic recoil pressure.
+-   **Ventilation:** The process of moving air into and out of the lungs.
+-   **Ventilation-Perfusion Mismatching:** An imbalance between ventilation (airflow) and perfusion
+    (blood flow) in the lungs, leading to inefficient gas exchange.
+-   **Vital Capacity (VC):** The maximum volume of air that can be exhaled after a maximal
+    inhalation.
 
----
+----------------------------------------------------------------------------------------------------
+
+## Lecture 6: Pulmonary Function Testing
+
+### Overview
+
+This lecture provides a practical guide to interpreting pulmonary function tests (PFTs), focusing on
+the key measurements used to categorize lung diseases and understand their pathophysiology. It
+reviews the core principles of spirometry, emphasizing the significance of FEV1, FVC, and the
+FEV1/FVC ratio in distinguishing obstructive from restrictive ventilatory defects. The lecture then
+explains how flow-volume loops, derived from spirometry data, can reveal patterns of airway
+obstruction, such as those seen in COPD and upper airway obstruction. It delves into arterial blood
+gas analysis, focusing on oxygenation, ventilation, and acid-base balance, and introduces the
+alveolar air equation and A-a gradient for identifying the underlying causes of hypoxemia. The
+lecture highlights the crucial relationship between alveolar ventilation and PaCO2, emphasizing its
+tight regulation and how deviations lead to hypoventilation or hyperventilation. It concludes with a
+discussion of diffusing capacity, particularly the carbon monoxide diffusing capacity (DCO) test,
+and explains how it reflects gas exchange capacity and can be used to assess alveolar-capillary
+surface area. The lecture emphasizes the importance of integrating PFT results with history,
+physical examination, and other diagnostic data to arrive at a complete clinical picture.
+
+----------------------------------------------------------------------------------------------------
+
+## Table of Contents
+
+-   [Introduction to Pulmonary Function Testing](#introduction-to-pulmonary-function-testing)
+-   [Spirometry](#spirometry)
+    -   [Key Spirometry Values](#key-spirometry-values)
+    -   [Interpretation of Spirometry](#interpretation-of-spirometry)
+        -   [Restrictive Ventilatory Defect](#restrictive-ventilatory-defect)
+        -   [Obstructive Ventilatory Defect](#obstructive-ventilatory-defect)
+    -   [Spirometry Examples](#spirometry-examples)
+    -   [Post-Bronchodilator Spirogram](#post-bronchodilator-spirogram)
+-   [Flow-Volume Curves](#flow-volume-curves)
+    -   [Flow-Volume Curve vs. Spirogram](#flow-volume-curve-vs-spirogram)
+    -   [Flow-Volume Curve Examples](#flow-volume-curve-examples)
+-   [Arterial Blood Gases (ABGs)](#arterial-blood-gases-abgs)
+    -   [Oxygenation](#oxygenation)
+        -   [Oxyhemoglobin Saturation Curve](#oxyhemoglobin-saturation-curve)
+        -   [Why is Hypoxia Bad?](#why-is-hypoxia-bad)
+        -   [Causes of Hypoxia](#causes-of-hypoxia)
+        -   [Alveolar-Arterial Oxygen Tension Difference (A-a
+            Gradient)](#alveolar-arterial-oxygen-tension-difference-a-a-gradient)
+        -   [V/Q Mismatch](#vq-mismatch)
+        -   [Shunt](#shunt)
+    -   [Ventilation and PaCO2](#ventilation-and-paco2)
+        -   [Alveolar Ventilation Equation](#alveolar-ventilation-equation)
+    -   [PaCO2 and pH](#paco2-and-ph)
+-   [Diffusing Capacity](#diffusing-capacity)
+    -   [Fick's Law of Diffusion](#ficks-law-of-diffusion)
+    -   [Diffusing Capacity Measurement](#diffusing-capacity-measurement)
+    -   [Interpretation of DCO](#interpretation-of-dco)
+-   [Lung Volumes](#lung-volumes)
+    -   [Measuring Functional Residual Capacity](#measuring-functional-residual-capacity)
+        -   [Helium Dilution Lung Volume](#helium-dilution-lung-volume)
+        -   [Nitrogen Washout](#nitrogen-washout)
+    -   [Measuring Residual Volume](#measuring-residual-volume)
+        -   [Body Plethysmography](#body-plethysmography)
+    -   [Interpretation of Lung Volumes](#interpretation-of-lung-volumes)
+-   [Key Takeaways](#key-takeaways)
+
+----------------------------------------------------------------------------------------------------
+
+## Introduction to Pulmonary Function Testing {#introduction-to-pulmonary-function-testing}
+
+Pulmonary function tests (PFTs) are essential tools for assessing lung function and classifying
+pulmonary diseases. They provide objective measurements of lung volumes, airflow, and gas exchange,
+allowing clinicians to:
+
+-   **Identify the presence and severity of lung disease:** PFTs can detect abnormalities even
+    before symptoms are apparent.
+-   **Distinguish between obstructive and restrictive lung diseases:** These two broad categories
+    have distinct patterns on PFTs.
+-   **Assess the effectiveness of treatment:** PFTs can be used to monitor response to therapies,
+    such as bronchodilators or oxygen.
+-   **Evaluate the impact of lung disease on daily activities:** PFTs can help determine the degree
+    of functional impairment.
+-   **Predict prognosis:** PFT results can provide insights into the likely course of a lung
+    disease.
+
+----------------------------------------------------------------------------------------------------
+
+## Spirometry {#spirometry}
+
+Spirometry is the most fundamental and widely used PFT. It involves measuring the volume and flow of
+air exhaled during a forced maneuver.
+
+### Key Spirometry Values {#key-spirometry-values}
+
+-   **Forced Vital Capacity (FVC):** The total volume of air exhaled during a maximal forced
+    exhalation.
+-   **Forced Expiratory Volume in 1 Second (FEV1):** The volume of air exhaled in the first second
+    of a forced exhalation.
+-   **FEV1/FVC Ratio (FEV1%):** The percentage of the FVC that is exhaled in the first second.
+
+### Interpretation of Spirometry {#interpretation-of-spirometry}
+
+Spirometry results are used to classify ventilatory defects into two main categories:
+
+#### Restrictive Ventilatory Defect {#restrictive-ventilatory-defect}
+
+-   **Characterized by a reduced FVC, with a normal or even increased FEV1/FVC ratio.**
+-   The patient has a smaller than expected total lung capacity, but their airways are not
+    obstructed, so the air they can exhale comes out at a normal or faster rate.
+-   **Possible causes:**
+    -   **Interstitial lung diseases:** Pulmonary fibrosis, sarcoidosis
+    -   **Chest wall abnormalities:** Kyphoscoliosis, neuromuscular weakness
+    -   **Obesity:** Restricts chest wall expansion
+
+#### Obstructive Ventilatory Defect {#obstructive-ventilatory-defect}
+
+-   **Characterized by a reduced FEV1/FVC ratio, with a normal or decreased FVC.**
+-   The patient may have a normal or reduced total lung capacity, but airflow out of the lungs is
+    obstructed, resulting in a slower exhalation rate.
+-   **Possible causes:**
+    -   **Chronic obstructive pulmonary disease (COPD):** Emphysema, chronic bronchitis
+    -   **Asthma:** Airway inflammation and bronchospasm
+    -   **Upper airway obstruction:** Tumors, foreign bodies
+
+### Spirometry Examples {#spirometry-examples}
+
+-   **Normal Spirogram:** FEV1/FVC ratio is approximately 80% or greater.
+-   **Restrictive Pattern:** FVC is reduced, but FEV1/FVC ratio is normal or increased.
+-   **Obstructive Pattern:** FEV1/FVC ratio is reduced, and FVC may be normal or decreased.
+
+### Post-Bronchodilator Spirogram {#post-bronchodilator-spirogram}
+
+-   Spirometry is often repeated after the patient inhales a bronchodilator (typically a
+    beta-agonist).
+-   A significant improvement in FEV1 or FVC after bronchodilator suggests **reversible airway
+    obstruction**, as seen in asthma.
+-   Lack of improvement suggests **fixed airway obstruction**, as in COPD.
+
+----------------------------------------------------------------------------------------------------
+
+## Flow-Volume Curves {#flow-volume-curves}
+
+Flow-volume curves are graphical representations of airflow during forced exhalation and inhalation.
+They are derived from spirometry data but plotted with flow on the y-axis and volume on the x-axis.
+
+### Flow-Volume Curve vs. Spirogram
+
+-   **Spirogram:** Plots volume (y-axis) against time (x-axis), showing the amount of air exhaled
+    over time.
+-   **Flow-Volume Curve:** Plots flow (y-axis) against volume (x-axis), highlighting the rate of
+    airflow at different lung volumes.
+
+### Flow-Volume Curve Examples {#flow-volume-curve-examples}
+
+-   **Normal Pattern:** Smooth, symmetrical loop.
+-   **Obstructive Pattern:**
+    -   **COPD:** Scooped-out appearance of the expiratory curve, reflecting reduced airflow,
+        particularly at lower lung volumes.
+    -   **Upper Airway Obstruction:** Flattening of the inspiratory curve, indicating difficulty
+        inhaling.
+-   **Restrictive Pattern:** Smaller than expected loop, due to reduced lung volumes.
+
+----------------------------------------------------------------------------------------------------
+
+## Arterial Blood Gases (ABGs) {#arterial-blood-gases-abgs}
+
+ABG analysis measures the partial pressures of oxygen (PaO2) and carbon dioxide (PaCO2) in arterial
+blood, along with pH and other parameters.
+
+### Oxygenation {#oxygenation}
+
+#### Oxyhemoglobin Saturation Curve {#oxyhemoglobin-saturation-curve}
+
+-   Depicts the relationship between PaO2 and the percentage of hemoglobin saturated with oxygen
+    (SaO2).
+-   The sigmoid shape of the curve reflects the cooperative binding of oxygen to hemoglobin.
+-   A PaO2 of 60 mmHg corresponds to an SaO2 of about 90%, generally considered the threshold for
+    clinically significant hypoxemia.
+
+#### Why is Hypoxia Bad? {#why-is-hypoxia-bad}
+
+-   **Impaired ATP Production:** Oxygen is essential for oxidative phosphorylation, the main pathway
+    for ATP synthesis. Hypoxia shifts metabolism towards anaerobic glycolysis, leading to lactic
+    acid buildup and reduced energy production.
+-   **HIF Activation:** Hypoxia activates Hypoxia Inducible Factor (HIF), a transcription factor
+    that regulates genes involved in a wide range of cellular processes, including:
+    -   Angiogenesis (formation of new blood vessels)
+    -   Erythropoiesis (red blood cell production)
+    -   Cell proliferation and survival
+    -   Inflammation and immune responses
+
+#### Causes of Hypoxia {#causes-of-hypoxia}
+
+-   **V/Q Mismatch:** Imbalance between ventilation (airflow) and perfusion (blood flow) in the
+    lungs, leading to inefficient gas exchange.
+-   **Shunt:** Blood bypassing ventilated alveoli, mixing deoxygenated blood with oxygenated blood.
+-   **Hypoventilation:** Reduced alveolar ventilation, leading to inadequate oxygen uptake and CO2
+    elimination.
+-   **Diffusion Impairment:** Thickening of the alveolar-capillary membrane, slowing the diffusion
+    of oxygen into the blood. (Rarely a cause of hypoxia at rest.)
+-   **Decreased FiO2:** Reduced fraction of inspired oxygen, as at high altitude.
+
+#### Alveolar-Arterial Oxygen Tension Difference (A-a Gradient) {#alveolar-arterial-oxygen-tension-difference-a-a-gradient}
+
+-   The difference between the partial pressure of oxygen in alveolar gas (PAO2) and arterial blood
+    (PaO2).
+-   Reflects the efficiency of gas exchange.
+-   A normal A-a gradient on room air is less than 20 mmHg.
+-   **Increased A-a gradient indicates impaired gas exchange:**
+    -   V/Q mismatch
+    -   Shunt
+-   **Normal A-a gradient suggests other causes of hypoxia:**
+    -   Hypoventilation
+    -   Diffusion impairment
+    -   Decreased FiO2
+
+#### V/Q Mismatch {#vq-mismatch}
+
+-   **Common cause of hypoxia.**
+-   Occurs when areas of the lung are poorly ventilated relative to their blood flow (low V/Q ratio)
+    or overventilated relative to their blood flow (high V/Q ratio).
+-   Can be caused by COPD, asthma, pneumonia, pulmonary embolism, and other conditions.
+-   **Responds well to supplemental oxygen:** Oxygen can eventually replace nitrogen in poorly
+    ventilated alveoli, improving gas exchange.
+
+#### Shunt {#shunt}
+
+-   **Extreme form of V/Q mismatch where blood completely bypasses ventilated alveoli.**
+-   Can be caused by intracardiac shunts (e.g., patent foramen ovale), atelectasis, severe
+    pneumonia, or pulmonary edema.
+-   **Does not respond well to supplemental oxygen:** The shunted blood remains deoxygenated, even
+    with high FiO2.
+
+### Ventilation and PaCO2 {#ventilation-and-paco2}
+
+#### Alveolar Ventilation Equation {#alveolar-ventilation-equation}
+
+-   Describes the relationship between alveolar ventilation (VA), carbon dioxide production (VCO2),
+    and arterial PaCO2.
+-   `PaCO2 = K x VCO2 / VA`
+    -   K is a constant
+    -   Increased VA (hyperventilation) lowers PaCO2
+    -   Decreased VA (hypoventilation) raises PaCO2
+
+### PaCO2 and pH {#paco2-and-ph}
+
+-   CO2 in solution forms carbonic acid, which dissociates into hydrogen ions (H+) and bicarbonate.
+-   **Elevated PaCO2 (respiratory acidosis):** Lowers pH (more acidic).
+-   **Reduced PaCO2 (respiratory alkalosis):** Raises pH (more alkaline).
+-   **Acute changes in PaCO2 have a greater impact on pH than chronic changes** due to the kidney's
+    ability to compensate over time by adjusting bicarbonate levels.
+
+----------------------------------------------------------------------------------------------------
+
+## Diffusing Capacity {#diffusing-capacity}
+
+Diffusing capacity (DL) measures the ability of gases to diffuse across the alveolar-capillary
+membrane.
+
+### Fick's Law of Diffusion {#ficks-law-of-diffusion}
+
+-   `J = K x (ΔP/ΔL) x A`
+    -   J = Gas flux (rate of diffusion)
+    -   K = Diffusion constant (depends on gas properties)
+    -   ΔP = Partial pressure gradient across the membrane
+    -   ΔL = Thickness of the membrane
+    -   A = Surface area of the membrane
+
+### Diffusing Capacity Measurement {#diffusing-capacity-measurement}
+
+-   Typically measured using the **carbon monoxide diffusing capacity (DCO) test**.
+-   Carbon monoxide (CO) is used because it binds tightly to hemoglobin, creating a large partial
+    pressure gradient and minimizing back pressure.
+-   Patient inhales a low concentration of CO and holds their breath for 10 seconds.
+-   Exhaled CO and helium (an inert marker gas) are measured to calculate the amount of CO absorbed.
+
+### Interpretation of DCO {#interpretation-of-dco}
+
+-   **Decreased DCO:** Suggests a reduction in alveolar-capillary surface area, as in emphysema,
+    pulmonary fibrosis, or after lung resection. Can also be caused by anemia or pulmonary vascular
+    disease.
+-   **Increased DCO:** May indicate increased pulmonary capillary blood volume, as in exercise,
+    polycythemia, or mild heart failure.
+
+----------------------------------------------------------------------------------------------------
+
+## Lung Volumes {#lung-volumes}
+
+Lung volumes are subdivided into four volumes and four capacities:
+
+-   **Volumes:**
+    -   Tidal Volume (TV): Volume of a single breath.
+    -   Inspiratory Reserve Volume (IRV): Maximum volume that can be inhaled above TV.
+    -   Expiratory Reserve Volume (ERV): Maximum volume that can be exhaled below TV.
+    -   Residual Volume (RV): Volume remaining in the lungs after a maximal exhalation.
+-   **Capacities:**
+    -   Total Lung Capacity (TLC): RV + ERV + TV + IRV (maximum air the lungs can hold).
+    -   Vital Capacity (VC): ERV + TV + IRV (maximum air that can be exhaled after maximal
+        inhalation).
+    -   Inspiratory Capacity (IC): TV + IRV (maximum air that can be inhaled from FRC).
+    -   Functional Residual Capacity (FRC): ERV + RV (volume in lungs at the end of normal
+        exhalation).
+
+### Measuring Functional Residual Capacity {#measuring-functional-residual-capacity}
+
+#### Helium Dilution Lung Volume {#helium-dilution-lung-volume}
+
+-   Patient breathes a known concentration of helium in a closed system.
+-   Helium dilutes in the lung gas, and the final concentration is measured.
+-   The amount of dilution reflects the lung volume at FRC.
+
+#### Nitrogen Washout {#nitrogen-washout}
+
+-   Patient breathes 100% oxygen, washing out nitrogen from the lungs.
+-   Exhaled nitrogen is collected and measured.
+-   The amount of nitrogen reflects the lung volume at FRC.
+
+### Measuring Residual Volume {#measuring-residual-volume}
+
+#### Body Plethysmography (Body Box)
+
+-   Patient sits in a sealed box and pants against a closed shutter.
+-   Changes in box pressure during panting reflect changes in lung volume.
+-   Boyle's Law (P1V1 = P2V2) is used to calculate lung volume at RV.
+
+### Interpretation of Lung Volumes {#interpretation-of-lung-volumes}
+
+-   **Reduced TLC:** Restrictive lung disease.
+-   **Elevated TLC:** Hyperinflation, common in obstructive lung diseases.
+-   **Elevated RV:** Air trapping, suggestive of obstructive lung disease with airway closure.
+
+----------------------------------------------------------------------------------------------------
+
+## Key Takeaways
+
+-   PFTs are vital for assessing lung function, classifying diseases, and monitoring treatment.
+-   Spirometry and flow-volume loops help distinguish obstructive from restrictive ventilatory
+    defects.
+-   ABG analysis provides information about oxygenation, ventilation, and acid-base balance.
+-   The A-a gradient is crucial for identifying causes of hypoxemia.
+-   Diffusing capacity reflects gas exchange capacity and alveolar-capillary surface area.
+-   Lung volume measurements are essential for confirming restrictive disease and detecting
+    hyperinflation and air trapping.
+
+----------------------------------------------------------------------------------------------------
+
+## Lectures 7 and 8: Pulmonary Circulation, I and II
+
+### Overview
+
+These two lectures focus on the unique aspects of the pulmonary circulation, its distinct
+characteristics, and its intricate regulation. Lecture 7 introduces the rationale for having a
+separate pulmonary circulation, emphasizing its evolutionary significance and the advantages of two
+pumps (right and left ventricles) driving two distinct circulations with different pressures,
+resistances, metabolic functions, and responses. It compares and contrasts the pulmonary circulation
+with the systemic circulation, highlighting the lower pressures and resistances in the pulmonary
+circuit. The lecture then delves into the passive control of pulmonary vascular resistance (PVR),
+focusing on how lung volume influences PVR through recruitment and distention of blood vessels, and
+how this mechanism is beneficial for minimizing the workload on the right ventricle. It introduces
+the concept of pulmonary vascular zones, explaining how the interplay between alveolar, arterial,
+and venous pressures creates regional differences in blood flow within the lung. Lecture 8 shifts to
+active control mechanisms, emphasizing how alveolar hypoxia (low oxygen tension) triggers pulmonary
+vasoconstriction, a unique response that optimizes ventilation-perfusion matching within the lung.
+The lecture explores the cellular mechanisms underlying this hypoxic vasoconstriction, highlighting
+the role of potassium channels in regulating pulmonary vascular tone. It concludes by delving into
+the diverse metabolic functions of the pulmonary circulation, particularly its role in processing
+vasoactive substances and converting angiotensin I to angiotensin II.
+
+----------------------------------------------------------------------------------------------------
+
+## Table of Contents
+
+**Lecture 7: Pulmonary Circulation I: Passive Control and Zones**
+
+-   [Introduction](#introduction)
+    -   [Evolutionary Significance](#evolutionary-significance)
+    -   [Advantages of Two Circulations](#advantages-of-two-circulations)
+-   [Pressure-Flow Relationships](#pressure-flow-relationships)
+    -   [Flows and Pressures](#flows-and-pressures)
+    -   [Pulmonary Vascular Resistance (PVR)](#pulmonary-vascular-resistance-pvr)
+    -   [Pressure-Flow Diagram](#pressure-flow-diagram)
+    -   [Passive Control of PVR](#passive-control-of-pvr)
+        -   [Lung Volume](#lung-volume)
+        -   [Recruitment and Distention](#recruitment-and-distention)
+        -   [Alveolar vs. Extra-alveolar Vessels](#alveolar-vs-extra-alveolar-vessels)
+        -   [PVR and Lung Volume: U-Shaped Relationship](#pvr-and-lung-volume-u-shaped-relationship)
+-   [Zones of the Lung](#zones-of-the-lung)
+    -   [Defining the Zones](#defining-the-zones)
+    -   [Hydrostatic Pressure Gradient](#hydrostatic-pressure-gradient)
+    -   [Zone 1](#zone-1)
+    -   [Zone 2](#zone-2)
+    -   [Zone 3](#zone-3)
+    -   [Clinical Significance of Zones](#clinical-significance-of-zones)
+
+**Lecture 8: Pulmonary Circulation II: Active Control and Metabolic Functions**
+
+-   [Active Control of PVR](#active-control-of-pvr)
+    -   [Alveolar Hypoxia and Vasoconstriction](#alveolar-hypoxia-and-vasoconstriction)
+    -   [Mechanism of Hypoxic Pulmonary Vasoconstriction
+        (HPV)](#mechanism-of-hypoxic-pulmonary-vasoconstriction-hpv)
+    -   [Regional vs. Global HPV](#regional-vs-global-hpv)
+    -   [HPV at Birth](#hpv-at-birth)
+    -   [Other Vasoactive Mediators](#other-vasoactive-mediators)
+-   [Metabolic Functions of the Pulmonary
+    Circulation](#metabolic-functions-of-the-pulmonary-circulation)
+    -   [Angiotensin Conversion](#angiotensin-conversion)
+    -   [Inactivation of Vasoactive Substances](#inactivation-of-vasoactive-substances)
+-   [Summary](#summary)
+
+----------------------------------------------------------------------------------------------------
+
+## Lecture 7: Pulmonary Circulation I: Passive Control and Zones
+
+### Introduction {#introduction}
+
+#### Evolutionary Significance {#evolutionary-significance}
+
+-   Fish have a single ventricle heart and a single circulation, limiting their metabolic capacity.
+-   Non-crocodile reptiles are the first to evolve separate pulmonary and systemic circulations,
+    although their ventricles are not fully partitioned.
+-   Crocodiles are the first to have fully partitioned ventricles and completely distinct pulmonary
+    and systemic circulations.
+-   Mammals, including humans, have inherited this highly efficient dual circulatory system.
+
+#### Advantages of Two Circulations {#advantages-of-two-circulations}
+
+-   **Separate pulmonary and systemic circulations offer distinct advantages:**
+    -   **Pressure Optimization:** The low-pressure pulmonary circuit protects delicate lung
+        capillaries while the high-pressure systemic circuit delivers blood to the body tissues.
+    -   **Resistance Matching:** The low-resistance pulmonary circulation allows the right ventricle
+        to pump the entire cardiac output with minimal effort, while the high-resistance systemic
+        circulation maintains adequate blood pressure.
+    -   **Metabolic Specialization:** The pulmonary circulation performs specific metabolic
+        functions, such as converting angiotensin I to angiotensin II and inactivating vasoactive
+        substances.
+
+----------------------------------------------------------------------------------------------------
+
+### Pressure-Flow Relationships {#pressure-flow-relationships}
+
+#### Flows and Pressures {#flows-and-pressures}
+
+-   **Cardiac output (CO):** The volume of blood pumped by the heart per minute.
+-   **Venous return:** The volume of blood returning to the heart per minute.
+-   **In a healthy individual, cardiac output and venous return are equal.**
+-   **Mean pulmonary artery pressure (Ppa):** The average pressure in the pulmonary artery.
+-   **Mean left atrial pressure (Pla):** The average pressure in the left atrium.
+-   **The pressure difference (ΔP) between the pulmonary artery and left atrium drives blood flow
+    through the pulmonary circulation.**
+
+#### Pulmonary Vascular Resistance (PVR) {#pulmonary-vascular-resistance-pvr}
+
+-   **PVR** represents the resistance to blood flow through the pulmonary vasculature.
+-   Calculated as: `PVR = (Ppa - Pla) / CO`
+-   **PVR is much lower than systemic vascular resistance.**
+
+#### Pressure-Flow Diagram {#pressure-flow-diagram}
+
+-   Plots the pressure gradient (Ppa - Pla) on the y-axis against flow (CO) on the x-axis.
+-   **Slope of the line or curve represents PVR.**
+-   **Unlike a rigid tube, the lung exhibits a curvilinear pressure-flow relationship**, meaning
+    **PVR decreases as flow increases.** This is due to **passive mechanisms**.
+
+#### Passive Control of PVR {#passive-control-of-pvr}
+
+##### Lung Volume
+
+-   Lung volume significantly affects PVR.
+-   **Increased lung volume:** Compresses alveolar capillaries, increasing PVR.
+-   **Decreased lung volume:** Opens extra-alveolar vessels (those surrounding the airways),
+    decreasing PVR.
+
+##### Recruitment and Distention {#recruitment-and-distention}
+
+-   **Recruitment:** Opening of previously closed capillaries, increasing the cross-sectional area
+    for blood flow and decreasing PVR.
+-   **Distention:** Passive widening of blood vessels due to increased blood flow, further
+    decreasing PVR.
+
+##### Alveolar vs. Extra-alveolar Vessels
+
+-   **Alveolar vessels:** Capillaries within the alveolar walls, influenced by alveolar pressure.
+-   **Extra-alveolar vessels:** Larger arterioles and venules running alongside the airways, less
+    affected by alveolar pressure.
+
+##### PVR and Lung Volume: U-Shaped Relationship {#pvr-and-lung-volume-u-shaped-relationship}
+
+-   Plotting PVR against lung volume yields a U-shaped curve:
+    -   **At low lung volumes:** PVR is high because extra-alveolar vessels are compressed.
+    -   **At functional residual capacity (FRC):** PVR is minimal, balancing the opposing effects on
+        alveolar and extra-alveolar vessels.
+    -   **At high lung volumes:** PVR increases as alveolar capillaries are squeezed.
+
+----------------------------------------------------------------------------------------------------
+
+### Zones of the Lung {#zones-of-the-lung}
+
+#### Defining the Zones {#defining-the-zones}
+
+-   **Zones describe regional differences in pulmonary blood flow based on the interplay of three
+    pressures:**
+    -   **Alveolar Pressure (P**<sub>A</sub>): Constant throughout the lungs.
+    -   **Arterial Pressure (P**<sub>a</sub>): Highest at the lung base, decreasing towards the apex
+        due to gravity.
+    -   **Venous Pressure (P**<sub>v</sub>): Also highest at the base, decreasing towards the apex.
+
+#### Hydrostatic Pressure Gradient {#hydrostatic-pressure-gradient}
+
+-   Gravity creates a hydrostatic pressure gradient for both arterial and venous blood.
+-   **Pressure is highest in dependent regions (base in an upright person) and lowest in
+    non-dependent regions (apex).**
+
+#### Zone 1 (P<sub>A</sub> \> P<sub>a</sub> \> P<sub>v</sub>)
+
+-   **Apex of the lung in an upright individual.**
+-   **Alveolar pressure exceeds both arterial and venous pressures, collapsing capillaries and
+    preventing blood flow.**
+-   **Zone 1 is usually absent in healthy individuals at rest** but may appear during positive
+    pressure ventilation or in states of low cardiac output.
+
+#### Zone 2 (P<sub>a</sub> \> P<sub>A</sub> \> P<sub>v</sub>)
+
+-   **Middle region of the lung.**
+-   **Arterial pressure exceeds alveolar pressure, driving blood flow, but alveolar pressure still
+    exceeds venous pressure.**
+-   **Blood flow is determined by the difference between arterial and alveolar pressures
+    (P**<sub>a</sub> - P<sub>A</sub>).
+
+#### Zone 3 (P<sub>a</sub> \> P<sub>v</sub> \> P<sub>A</sub>)
+
+-   **Base of the lung.**
+-   **Both arterial and venous pressures exceed alveolar pressure.**
+-   **Blood flow is determined by the arteriovenous pressure difference (P**<sub>a</sub> -
+    P<sub>v</sub>).
+-   **Zone 3 receives the most blood flow due to its larger arteriovenous pressure gradient and
+    greater vessel distensibility.**
+
+#### Clinical Significance of Zones
+
+-   **Understanding zones helps explain:**
+    -   **Regional differences in ventilation and perfusion:** Dependent regions (bases) receive
+        more ventilation and perfusion than non-dependent regions (apices).
+    -   **Effects of posture on gas exchange:** Lying supine reduces the hydrostatic pressure
+        gradient, making ventilation and perfusion more uniform.
+    -   **Pathological changes in blood flow:** Conditions like pulmonary embolism or heart failure
+        can alter zonal blood flow patterns.
+
+----------------------------------------------------------------------------------------------------
+
+## Lecture 8: Pulmonary Circulation II: Active Control and Metabolic Functions
+
+### Active Control of PVR {#active-control-of-pvr}
+
+#### Alveolar Hypoxia and Vasoconstriction {#alveolar-hypoxia-and-vasoconstriction}
+
+-   **Hypoxic Pulmonary Vasoconstriction (HPV):** A unique response where **pulmonary arterioles
+    constrict in response to alveolar hypoxia.**
+-   **Opposes systemic circulation's response to hypoxia:** Systemic arterioles dilate in hypoxia to
+    increase blood flow to tissues.
+-   **Purpose:** To **match perfusion to ventilation**. By diverting blood away from poorly
+    ventilated alveoli (low O<sub>2</sub>), HPV directs blood flow to well-ventilated alveoli (high
+    O<sub>2</sub>), optimizing gas exchange.
+
+#### Mechanism of Hypoxic Pulmonary Vasoconstriction (HPV) {#mechanism-of-hypoxic-pulmonary-vasoconstriction-hpv}
+
+-   **Sensor:** The precise sensor for alveolar hypoxia is not fully understood, but likely involves
+    oxygen-sensitive ion channels on pulmonary artery smooth muscle cells.
+-   **Effector:** HPV is mediated by **inhibition of potassium channels**, leading to **membrane
+    depolarization** and **calcium influx** into pulmonary artery smooth muscle cells, triggering
+    **vasoconstriction**.
+
+#### Regional vs. Global HPV
+
+-   **Regional HPV:** Constriction of arterioles supplying specific hypoxic lung regions, improving
+    local V/Q matching.
+-   **Global HPV:** Widespread vasoconstriction in response to generalized alveolar hypoxia (e.g.,
+    high altitude, severe lung disease), can strain the right heart and potentially lead to right
+    heart failure.
+
+#### HPV at Birth {#hpv-at-birth}
+
+-   **Fetal lungs are fluid-filled, resulting in low alveolar PO**<sub>2</sub> and widespread
+    pulmonary vasoconstriction.
+-   **At birth, lung expansion and oxygen exposure rapidly relieve hypoxia, causing pulmonary
+    vasodilation and a dramatic increase in pulmonary blood flow.**
+
+#### Other Vasoactive Mediators {#other-vasoactive-mediators}
+
+-   **Vasoconstrictors:** Thromboxane A2, endothelin-1, serotonin.
+-   **Vasodilators:** Prostacyclin (PGI<sub>2</sub>), nitric oxide.
+-   These mediators contribute to fine-tuning pulmonary vascular tone in response to various
+    stimuli.
+
+----------------------------------------------------------------------------------------------------
+
+### Metabolic Functions of the Pulmonary Circulation {#metabolic-functions-of-the-pulmonary-circulation}
+
+#### Angiotensin Conversion {#angiotensin-conversion}
+
+-   **Angiotensin-Converting Enzyme (ACE):** Highly concentrated on the luminal surface of pulmonary
+    endothelial cells.
+-   **Converts angiotensin I to angiotensin II, a potent vasoconstrictor, within the pulmonary
+    circulation.**
+-   **Lungs play a major role in regulating systemic blood pressure through this angiotensin II
+    production.**
+
+#### Inactivation of Vasoactive Substances {#inactivation-of-vasoactive-substances}
+
+-   The pulmonary circulation effectively **removes and inactivates various circulating
+    substances**, including:
+    -   **Serotonin:** Metabolized by pulmonary endothelial cells.
+    -   **Bradykinin:** Inactivated by ACE.
+    -   **Prostaglandins:** Removed and metabolized by the lungs.
+-   This "first-pass" inactivation prevents these substances from reaching systemic circulation,
+    protecting other organs from their potentially harmful effects.
+
+----------------------------------------------------------------------------------------------------
+
+### Summary {#summary}
+
+-   The pulmonary circulation is a unique and highly specialized system, optimized for efficient gas
+    exchange at low pressures.
+-   **Passive control of PVR** involves recruitment and distention of blood vessels, influenced by
+    lung volume and creating distinct zonal flow patterns.
+-   **Active control of PVR** is primarily driven by alveolar hypoxia, triggering vasoconstriction
+    to match perfusion to ventilation.
+-   The pulmonary circulation plays a vital role in regulating systemic blood pressure and
+    inactivating vasoactive substances, contributing to overall homeostasis.
